@@ -4,7 +4,6 @@ Honor-Worn Shaku
 Mox Amber
 Azorius Signet
 Gilded Lotus
-Mana Vault
 Thran Dynamo
 Sol Ring
 Thought Vessel
@@ -12,12 +11,9 @@ Wayfarer's Bauble
 Talisman of Progress
 Jhoira's Familiar
 Azorius Locket
-Commander's Sphere
 Prismatic Lens
 Star Compass
 Everflowing Chalice
-Marble Diamond
-Sky Diamond
 Seal of the Guildpact
 Pearl Medallion
 Sapphire Medallion
@@ -106,3 +102,12 @@ Duplicant
 Aetherspouts
 The Immortal Sun
 Arcane Denial
+Marble Diamond
+Sky Diamond
+
+### Ramp
+Mana Vault
+Commander's Sphere
+
+### Synergy
+Paradox Engine
