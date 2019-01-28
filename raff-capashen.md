@@ -40,17 +40,17 @@
 * Bident of Thassa
 
 ### Protection
-Padeem, Consul of Innovation
-Crawlspace
+* Padeem, Consul of Innovation
+* Crawlspace
 
 ### Synergy
-Thran, Temporal Gateway
-Unwinding Clock
-Helm of the Host
-Master Transmuter
+* Thran, Temporal Gateway
+* Unwinding Clock
+* Helm of the Host
+* Master Transmuter
 
 ### Tutor
-Whir of Invention
+* Whir of Invention
 
 ### Recursion
 * Elixir of Immortality
