@@ -26,19 +26,14 @@ Sapphire Medallion
 Nevinyrral's Disk
 Tormod's Crypt
 Dispeller's Capsule
-Duplicant
 Spine of Ish Sah
-Aetherspouts
 Spear of Heliod
-The Immortal Sun
-Arcane Denial
 Swords to Plowshares
 Mystic Confluence
 Render Silent
 
 ### Draw
 Arcanis the Omnipotent
-Azami, Lady of Scrolls
 Ephara, God of the Polis
 Dictate of Kruphix
 Rhystic Study
@@ -68,8 +63,9 @@ Hanna, Ship's Navigator
 Reya Dawnbringer
 Yomiji, Who Bars the Way
 Junk Diver
+The Mirari Conjecture
 
-# Flashing Goodstuff
+### Flashing Goodstuff
 Kefnet the Mindful
 Nezahal, Primal Tide
 Zetalpa, Primal Dawn
@@ -104,3 +100,9 @@ Braids, Conjurer Adept
 Gate to the Aether
 Oketra the True
 Lyra Dawnbringer
+
+### Control
+Duplicant
+Aetherspouts
+The Immortal Sun
+Arcane Denial
