@@ -10,12 +10,12 @@ Sol Ring
 Thought Vessel
 Wayfarer's Bauble
 Talisman of Progress
-Azorius Cluestone
+Jhoira's Familiar
+Azorius Locket
 Commander's Sphere
 Prismatic Lens
 Star Compass
 Everflowing Chalice
-Mind Stone
 Marble Diamond
 Sky Diamond
 Seal of the Guildpact
@@ -40,11 +40,14 @@ Render Silent
 Arcanis the Omnipotent
 Azami, Lady of Scrolls
 Ephara, God of the Polis
+Dictate of Kruphix
 Rhystic Study
 Blue Sun's Zenith
-Pull From Tommorrow
+Pull From Tomorrow
+Dragonlord Ojutai
 Sphinx's Revelation
 Stroke of Genius
+Thaumatic Compass
 
 ### Protection
 Padeem, Consul of Innovation
@@ -63,7 +66,6 @@ Whir of Invention
 Elixir of Immortality
 Hanna, Ship's Navigator
 Reya Dawnbringer
-Teshar, Ancestor's Apostle
 Yomiji, Who Bars the Way
 Junk Diver
 
@@ -72,12 +74,8 @@ Kefnet the Mindful
 Nezahal, Primal Tide
 Zetalpa, Primal Dawn
 Heliod, God of the Sun
-Oketra the True
 Stunt Double
-Braids, Conjurer Adept
-Lyra Dawnbringer
 In Bolas's Clutches
-Kaho, Minamo Historian
 Karn's Temporal Sundering
 Keiga, the Tide Star
 Medomai the Ageless
@@ -89,10 +87,6 @@ Wurmcoil Engine
 Mirage Mirror
 Sakashima the Impostor
 Phyrexian Metamorph
-Nexus of Fate
-Sculpting Steel
-Linvala, the Preserver
-Gate to the Aether
 Stuffy Doll
 
 ### Land
@@ -100,3 +94,13 @@ Stuffy Doll
 16 Island
 1 Hallowed Fountain
 Reliquary Tower
+
+## Alternates
+### Flashing Goodstuff
+Kaho, Minamo Historian
+Nexus of Fate
+Sculpting Steel
+Braids, Conjurer Adept
+Gate to the Aether
+Oketra the True
+Lyra Dawnbringer
