@@ -34,6 +34,7 @@ The Immortal Sun
 Arcane Denial
 Swords to Plowshares
 Mystic Confluence
+Render Silent
 
 ### Draw
 Arcanis the Omnipotent
@@ -47,6 +48,7 @@ Stroke of Genius
 
 ### Protection
 Padeem, Consul of Innovation
+Crawlspace
 
 ### Synergy
 Thran, Temporal Gateway
