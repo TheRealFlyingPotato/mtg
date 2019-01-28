@@ -12,7 +12,6 @@ Talisman of Progress
 Jhoira's Familiar
 Azorius Locket
 Prismatic Lens
-Star Compass
 Everflowing Chalice
 Seal of the Guildpact
 Pearl Medallion
@@ -26,19 +25,19 @@ Spine of Ish Sah
 Spear of Heliod
 Swords to Plowshares
 Mystic Confluence
-Render Silent
 
 ### Draw
 Arcanis the Omnipotent
 Ephara, God of the Polis
-Dictate of Kruphix
-Rhystic Study
+Azor, the Lawbringer
 Blue Sun's Zenith
 Pull From Tomorrow
-Dragonlord Ojutai
+Honden of Seeing Winds
 Sphinx's Revelation
 Stroke of Genius
 Thaumatic Compass
+Nezahal, Primal Tide
+Bident of Thassa
 
 ### Protection
 Padeem, Consul of Innovation
@@ -63,7 +62,6 @@ The Mirari Conjecture
 
 ### Flashing Goodstuff
 Kefnet the Mindful
-Nezahal, Primal Tide
 Zetalpa, Primal Dawn
 Heliod, God of the Sun
 Stunt Double
@@ -72,7 +70,6 @@ Karn's Temporal Sundering
 Keiga, the Tide Star
 Medomai the Ageless
 Meishin, the Mind Cage
-On Serra's Wings
 Planar Bridge
 Yosei, the Morning Star
 Wurmcoil Engine
@@ -96,6 +93,7 @@ Braids, Conjurer Adept
 Gate to the Aether
 Oketra the True
 Lyra Dawnbringer
+On Serra's Wings
 
 ### Control
 Duplicant
@@ -104,10 +102,17 @@ The Immortal Sun
 Arcane Denial
 Marble Diamond
 Sky Diamond
+Render Silent
 
 ### Ramp
 Mana Vault
 Commander's Sphere
+Star Compass
+
+### Draw
+Rhystic Study
+Dragonlord Ojutai
+Dictate of Kruphix
 
 ### Synergy
 Paradox Engine
