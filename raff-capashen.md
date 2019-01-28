@@ -1,5 +1,5 @@
 ### Ramp
-Worn Powerstone
+Worn Powerstone/
 Honor-Worn Shaku
 Mox Amber
 Azorius Signet
