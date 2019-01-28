@@ -14,6 +14,7 @@ Dreamstone Hedron
 Talisman of Progress
 Azorius Cluestone
 Commander's Sphere
+Prismatic Lens
 Star Compass
 Hedron Archive
 Everflowing Chalice
@@ -21,6 +22,8 @@ Mind Stone
 Marble Diamond
 Sky Diamond
 Seal of the Guildpact
+Pearl Medallion
+Sapphire Medallion
 
 ### Control
 Nevinyrral's Disk
