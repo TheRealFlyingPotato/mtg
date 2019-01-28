@@ -3,20 +3,17 @@ Worn Powerstone
 Honor-Worn Shaku
 Mox Amber
 Azorius Signet
-Fellwar Stone
 Gilded Lotus
 Mana Vault
 Thran Dynamo
 Sol Ring
 Thought Vessel
-Solemn Simulacrum
-Dreamstone Hedron
+Wayfarer's Bauble
 Talisman of Progress
 Azorius Cluestone
 Commander's Sphere
 Prismatic Lens
 Star Compass
-Hedron Archive
 Everflowing Chalice
 Mind Stone
 Marble Diamond
@@ -99,7 +96,7 @@ Gate to the Aether
 Stuffy Doll
 
 ### Land
-18 Plains 
-17 Island
+17 Plains 
+16 Island
 1 Hallowed Fountain
 Reliquary Tower
