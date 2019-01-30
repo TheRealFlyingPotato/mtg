@@ -38,6 +38,7 @@
 * Thaumatic Compass
 * Nezahal, Primal Tide
 * Bident of Thassa
+* Rhystic Study
 
 ### Protection
 * Padeem, Consul of Innovation
@@ -69,7 +70,6 @@
 * Karn's Temporal Sundering
 * Keiga, the Tide Star
 * Medomai the Ageless
-* Meishin, the Mind Cage
 * Planar Bridge
 * Yosei, the Morning Star
 * Wurmcoil Engine
@@ -103,6 +103,7 @@
 * Marble Diamond
 * Sky Diamond
 * Render Silent
+* Meishin, the Mind Cage
 
 ### Ramp
 * Mana Vault
@@ -110,9 +111,9 @@
 * Star Compass
 
 ### Draw
-* Rhystic Study
 * Dragonlord Ojutai
 * Dictate of Kruphix
+* Thoughtcast
 
 ### Synergy
 * Paradox Engine
