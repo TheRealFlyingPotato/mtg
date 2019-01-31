@@ -25,6 +25,7 @@
 * Spear of Heliod
 * Swords to Plowshares
 * Mystic Confluence
+* Urza's Ruinous Blast
 
 ### Draw
 * Arcanis the Omnipotent
@@ -62,7 +63,6 @@
 * The Mirari Conjecture
 
 ### Flashing Goodstuff
-* Kefnet the Mindful
 * Zetalpa, Primal Dawn
 * Heliod, God of the Sun
 * Stunt Double
@@ -94,6 +94,7 @@
 * Oketra the True
 * Lyra Dawnbringer
 * On Serra's Wings
+* Kefnet the Mindful
 
 ### Control
 * Duplicant
