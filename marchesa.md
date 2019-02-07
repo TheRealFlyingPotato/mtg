@@ -19,8 +19,12 @@ Fellwar Stone
 Unstable Obelisk
 Mind Stone
 Everflowing Chalice
+Burnished Hart
+Solemn Simulacrum
 Sol Ring
+Sword of the Animist
 Hedron Archive
+Wayfarer's Bauble
 
 ### Sac Outlets
 Viscera Seer
@@ -28,13 +32,11 @@ Carrion Feeder
 Yahenni, Undying Partisan
 Ashnod's Altar
 Bloodflow Connoisseur
+Falkenrath Aristocrat
 
 ### +1/+1 Counters
-Blade of the Bloodchief
 Dragon Blood
-Eternal Thirst
 Feast on the Fallen
-Power Conduit
 Unspeakable Symbol
 
 ### Recursion
@@ -45,29 +47,22 @@ Hell's Caretaker
 ### Control
 Plaguecrafter
 Phyrexian Scriptures
-Terminate
+
 Chaos Warp
 Retribution of the Ancients
 Last one Standing
 
-### Ramp
-Burnished Hart
-
 ### Powerhouse
 Grave Betrayal
-Vengeful Vampire
 Slave of Bolas
 Thraximundar
 Flameshadow Conjuring
-Hammer of Purphoros
 Gonti, Lord of Luxury
 Puppeteer Clique
 Herald of Secret Streams
 Dack's Duplicate
 Blood Tyrant
 Deathbringer Thoctar
-Noosegraf Mob
-Reef Worm
 Desecrated Tomb
 Open the Graves
 Shifting Shadow
@@ -77,17 +72,17 @@ Guildmage's Forum
 Hanweir Battlements
 Opal Palace
 11 Swamp
-11 Mountain
+10 Mountain
 10 Island
 Phyrexian Tower
 High Market
+Myriad Landscape
 
 ### Haste
 Anger
 Fervor
-Mass Hysteria
-Racecourse Fury
 Hazoret's Favor
+Hammer of Purphoros
 
 # More Damage
 Flayer of the Hatebound
@@ -106,7 +101,17 @@ Panharmonicon
 Goblin Bombardment
 Phyrexian Arena
 Arguel's Blood Fast
+Eternal Thirst
+Noosegraf Mob
+Blade of the Bloodchief
 
 Infernal Tribute
-Solemn Simulacrum
 Baleful Strix
+Terminate
+Black Market
+Mass Hysteria
+Power Conduit
+Reef Worm
+Vengeful Vampire
+Racecourse Fury
+
