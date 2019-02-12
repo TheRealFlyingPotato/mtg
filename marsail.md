@@ -1,5 +1,6 @@
 # Marsail
 ## Draw
+Frantic Search
 Temple Bell
 Urza's Tome
 Urza's Blueprints
@@ -12,9 +13,12 @@ Azami, Lady of Scrolls
 Jace's Archivist
 Mercurial Chemister
 Rhystic Study
+Doom Whisperer
+Pull from Tomorrow
 Reforge the Soul
 Magus of the Bazaar
 Sphinx of Magosi
+Windfall
 
 ## Graveyard Dump
 Buried Alive
@@ -54,9 +58,11 @@ Summoning Station
 Acorn Catapult
 Bloodline Keeper
 Myr Turbine
+Chaos Wand
 
 ## Control
 Kozilek, the Great Distortion
+Perilous Vault
 Infernal Denizen
 Shauku, Endbringer
 Nevinyrral's Disk
@@ -73,6 +79,9 @@ Deadeye Navigator
 Cavern Harpy
 Shifty Doppelganger
 Essence Flux
+Pack Rat
+Myr Propogator
+Skywing Aven
 
 ## Untap
 Eater of the Dead
@@ -88,6 +97,7 @@ Cinderhaze Wretch
 
 ## Yes?
 Illusionist's Bracers
+Training Grounds
 
 ## Combo
 Quicksilver Elemental
@@ -102,6 +112,7 @@ Cephalid Inkshrouder
 Rainbow Efreet
 Morphling
 
+
 ## Haste
 Anger
 Blighted Bat
@@ -111,10 +122,15 @@ Skyship Stalker
 Lightning Greaves
 Thousand-Year Elixir
 
+## Tutor
+Fabricate
+Gamble
+
 ## Lands
 37 Swamp
 
 # Upgrades
+Rings of Brighthearth
 Staff of Domination
 Skytherix, the Blight Dragon
 Sakashima the Imposter
