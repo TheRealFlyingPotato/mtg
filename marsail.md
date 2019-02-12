@@ -1,33 +1,23 @@
 # Marsail
 ## Draw
 Frantic Search
-Temple Bell
-Urza's Tome
 Urza's Blueprints
-Emmessi Tome
 Immortal Coil
 Jalum Tome
-Loreseeker's Stone
 Arcanis the Omnipotent
 Azami, Lady of Scrolls
 Jace's Archivist
 Mercurial Chemister
 Rhystic Study
 Doom Whisperer
-Pull from Tomorrow
-Reforge the Soul
 Magus of the Bazaar
-Sphinx of Magosi
 Windfall
 
 ## Graveyard Dump
 Buried Alive
-Entomb
-Gamble
 Charmed Pendant
 Grindstone
 Cellar Door
-
 
 ## Ramp
 Basalt Monolith
@@ -36,33 +26,24 @@ Gilded Lotus
 Dreamstone Hedron
 Rakdos Signet
 Dimir Signet
+Thran Dynamo
 Izzet Signet
 Rakdos Locket
 Dimir Locket
 Izzet Locket
 Mana Vault
-Deranged Assistant
 Sol Ring
-Millikin
-Patron of the Moon
+Skirge Familiar
 
 ## Cage This
-Oracle's Vault
 Sensei's Divining Top
-Mimic Vat
-Havengul Lich
 Tree of Perdition
 Mirage Mirror
 Chainer, Dementia Master
 Summoning Station
-Acorn Catapult
-Bloodline Keeper
-Myr Turbine
 Chaos Wand
 
 ## Control
-Kozilek, the Great Distortion
-Perilous Vault
 Infernal Denizen
 Shauku, Endbringer
 Nevinyrral's Disk
@@ -76,17 +57,12 @@ Conjurer's Closet
 Aetherling
 Argent Sphinx
 Deadeye Navigator
-Cavern Harpy
 Shifty Doppelganger
 Essence Flux
 Pack Rat
-Myr Propogator
-Skywing Aven
+Myr Propagator
 
 ## Untap
-Eater of the Dead
-Fatestitcher
-Hateflayer
 Horseshoe Crab
 Knacksaw Clique
 Pili-Pala
@@ -94,13 +70,12 @@ Torchling
 Retrofitter Foundry
 Soliton
 Cinderhaze Wretch
+Tidal Force
 
 ## Yes?
 Illusionist's Bracers
 Training Grounds
 
-## Combo
-Quicksilver Elemental
 
 ## Protection
 Amaranthine Wall
@@ -109,8 +84,11 @@ Cauldron of Souls
 Dirty Wererat
 Spiny Starfish
 Cephalid Inkshrouder
-Rainbow Efreet
-Morphling
+Marrow Bats
+Mischievous Poltergeist
+Cavern Harpy
+Skywing Aven
+Earsplitting Rats
 
 
 ## Haste
@@ -120,14 +98,14 @@ Crimson Mage
 Whip Sergeant
 Skyship Stalker
 Lightning Greaves
-Thousand-Year Elixir
 
 ## Tutor
 Fabricate
 Gamble
 
 ## Lands
-37 Swamp
+36 Swamp
+Flamekin Village
 
 # Upgrades
 Rings of Brighthearth
@@ -137,3 +115,45 @@ Sakashima the Imposter
 Minamo, School at Water's Edge
 Planar Bridge
 Planar Portal
+
+## Draw
+Tomb Robber
+
+## Tutor
+Entomb
+Gamble
+
+## Haste
+Thousand-Year Elixir
+
+## Yes?
+Splinter Twin
+
+
+## Untap
+Eater of the Dead
+Fatestitcher
+Hateflayer
+
+## Cage This
+Bloodline Keeper
+Havengul Lich
+Acorn Catapult
+Myr Turbine
+Grimoire of the Dead
+
+## Control
+Kozilek, the Great Distortion
+Perilous Vault
+
+## Protection
+Morphling
+Rainbow Efreet
+
+## Ramp
+Patron of the Moon
+
+
+## Combo
+Quicksilver Elemental
+
