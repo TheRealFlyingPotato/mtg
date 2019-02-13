@@ -1,8 +1,6 @@
 # Marsail
 ## Draw
-Frantic Search
 Urza's Blueprints
-Immortal Coil
 Jalum Tome
 Arcanis the Omnipotent
 Azami, Lady of Scrolls
@@ -24,13 +22,9 @@ Basalt Monolith
 Commander's Sphere
 Gilded Lotus
 Dreamstone Hedron
-Rakdos Signet
 Dimir Signet
 Thran Dynamo
 Izzet Signet
-Rakdos Locket
-Dimir Locket
-Izzet Locket
 Mana Vault
 Sol Ring
 Skirge Familiar
@@ -39,26 +33,18 @@ Skirge Familiar
 Sensei's Divining Top
 Tree of Perdition
 Mirage Mirror
-Chainer, Dementia Master
-Summoning Station
 Chaos Wand
 
 ## Control
 Infernal Denizen
 Shauku, Endbringer
 Nevinyrral's Disk
-Avatar of Woe
-Visara the Dreadful
-Galecaster Colossus
 
 ## More Caging
-Nezahal, Primal Tide
 Conjurer's Closet
 Aetherling
-Argent Sphinx
 Deadeye Navigator
 Shifty Doppelganger
-Essence Flux
 Pack Rat
 Myr Propagator
 
@@ -67,27 +53,20 @@ Horseshoe Crab
 Knacksaw Clique
 Pili-Pala
 Torchling
-Retrofitter Foundry
 Soliton
 Cinderhaze Wretch
-Tidal Force
 
 ## Yes?
 Illusionist's Bracers
 Training Grounds
 
-
 ## Protection
 Amaranthine Wall
 Soul of New Phyrexia
 Cauldron of Souls
-Dirty Wererat
-Spiny Starfish
 Cephalid Inkshrouder
-Marrow Bats
 Mischievous Poltergeist
 Cavern Harpy
-Skywing Aven
 Earsplitting Rats
 
 
@@ -104,7 +83,12 @@ Fabricate
 Gamble
 
 ## Lands
-36 Swamp
+12 Swamp
+12 Mountain
+12 Island
+Blood Crypt
+Steam Vents
+Watery Grave
 Flamekin Village
 
 # Upgrades
@@ -118,6 +102,8 @@ Planar Portal
 
 ## Draw
 Tomb Robber
+Frantic Search
+Immortal Coil
 
 ## Tutor
 Entomb
@@ -129,11 +115,12 @@ Thousand-Year Elixir
 ## Yes?
 Splinter Twin
 
-
 ## Untap
 Eater of the Dead
 Fatestitcher
 Hateflayer
+Retrofitter Foundry
+Tidal Force
 
 ## Cage This
 Bloodline Keeper
@@ -141,14 +128,28 @@ Havengul Lich
 Acorn Catapult
 Myr Turbine
 Grimoire of the Dead
+Chainer, Dementia Master
+Summoning Station
+
+## More Caging
+Nezahal, Primal Tide
+Essence Flux
+Argent Sphinx
 
 ## Control
 Kozilek, the Great Distortion
+Visara the Dreadful
 Perilous Vault
+Galecaster Colossus
+Avatar of Woe
 
 ## Protection
+Spiny Starfish
 Morphling
+Dirty Wererat
+Marrow Bats
 Rainbow Efreet
+Skywing Aven
 
 ## Ramp
 Patron of the Moon
