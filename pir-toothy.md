@@ -8,6 +8,8 @@ Give // Take
 Consecrated Sphinx
 Blue Sun's Zenith
 Thought Reflection
+Otherworld Atlas
+Shrine of Boundless Growth
 
 ### Ramp
 Fertilid
@@ -16,14 +18,14 @@ Gyre Sage
 Everflowing Chalice
 Astral Cornucopia
 Crystalline Crawler
-Kodama's Reach
 Rampant Growth
 Wild Growth
 Urban Evolution
 Karametra's Acolyte
-Guilded Lotus
 Boundless Realms
 Iceberg
+Gemstone Array
+Sol Ring
 
 ### More Counters
 Vigor
@@ -43,6 +45,9 @@ Thrummingbird
 Steady Progress
 Kalonian Hydra
 Skyrider Patrol
+Solidarity of Heroes
+Power Conduit
+
 
 ### Walkers
 Nissa, Voice of Zendikar
@@ -57,7 +62,7 @@ Mystic Confluence
 ### Protection
 Plaxcaster Frogling
 
-### +1/+1 Synergy
+### Counter Synergy
 Chasm Skulker
 Armorcraft Judge
 Shapers of Nature
@@ -70,6 +75,8 @@ Sage of Hours
 As Foretold
 Altered Ego
 Hydroid Krasis
+Magistrate's Scepter
+Titan Forge
 
 ### Draw Synergy
 Lorescale Coatl
@@ -81,11 +88,13 @@ Avenger of Zendikar
 Mycoloth
 Darksteel Reactor
 Biogenic Ooze
+Green Sun's Zenith
 
 ### Blink
 Conjurer's Closet
 Deadeye Navigator
 Ghostly Flicker
+Essence Flux
 
 ### Land
 Oran-Rief, the Vastwood
@@ -96,10 +105,17 @@ Hollow Trees
 Saprazzan Cove
 Forge of Heroes
 Reliquary Tower
-15 Forest
+Mirrodin's Core
+14 Forest
 14 Island
 
 # Upgrades
+### Ramp
+Gilded Lotus
+Kodama's Reach
+Druid's Repository
+
+ 
 ### Golden
 Helix Pinnacle
 Doubling Season
