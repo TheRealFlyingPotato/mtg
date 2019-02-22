@@ -6,6 +6,29 @@ Yavimaya Elder
 Harvester of Souls
 Altar's Reap
 Costly Plunder
+Deathreap Ritual
+
+
+### Ramp
+Harrow
+Rishkar, Peema Renegade
+Wood Elves
+Sakura-Tribe Elder
+Burnished Hart
+Primal Growth
+Solemn Simulacrum
+Black Market
+Heart Warden
+Command Sphere
+Unbridled Growth
+Growing Rites of Itlimoc
+Perilous Forays
+Dawntreader Elk
+Diligent Farmhand
+Font of Fertility
+Wayfarer's Bauble
+Oshra Cultivator
+Ordeal of Nylea
 
 ### Stuff to sac
 Awakening Zone
@@ -20,6 +43,7 @@ Sifter of Skulls
 Reassembling Skeleton
 Grave Titan
 Animation Module
+Parallel Lives
 
 ### Make them Sac
 Vona's Hunger
@@ -40,20 +64,14 @@ Eldritch Evolution
 Diabolic Intent
 Birthing Pod
 
-### Ramp
-Harrow
-Rishkar, Peema Renegade
-Wood Elves
-Sakura-Tribe Elder
-Burnished Hart
-Primal Growth
-Solemn Simulacrum
-
 ### Recursion
 Dread Return
 Victimize
 Whisper, Blood Liturgist
 Meren of Clan Nel Toth
+Journey to Eternity
+Doomed Necromancer
+Apprentice Necromancer
 
 ### Counters
 Corpsejack Menace
@@ -61,8 +79,10 @@ Hardened Scales
 Reyhan, Last of the Abzan
 Winding Constrictor
 Bloodspore Thrinax
+Death's Presence
 
 ### Sac Outlets
+Culling Dias
 Ashnod's Altar
 Viscera Seer
 Jarad, Golgari Lich Lord
@@ -90,3 +110,31 @@ Zulaport Cutthroat
 ### Control
 Caustic Caterpillar
 Shriekmaw
+
+### Lands
+8 Swamp
+8 Forest
+Evolving Wilds
+Terramorphic Expanse
+Overgrown Tomb
+Grim Backwoods
+High Market
+Tainted Wood
+Woodland Cemetary
+Westvale Abbey
+Myriad Landscape
+Ghost Quarter
+Memorial to Folly
+Spawning Bed
+Jund Panorama
+Rogue's Passage
+Phyrexian Tower
+Khalni Garden
+Reliquary Tower
+Jungle Hallow
+Llanowar Wastes
+Blighted Fen
+Blighted Woodland
+
+### Upgrades / Maybe
+Myr Incubator
