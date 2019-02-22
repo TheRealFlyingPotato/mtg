@@ -7,120 +7,95 @@ Harvester of Souls
 Altar's Reap
 Costly Plunder
 Deathreap Ritual
-
+Izoni, Thousand-Eyed
+Grim Haruspex
 
 ### Ramp
 Harrow
 Rishkar, Peema Renegade
-Wood Elves
 Sakura-Tribe Elder
 Burnished Hart
 Primal Growth
-Solemn Simulacrum
 Black Market
 Heart Warden
-Command Sphere
-Unbridled Growth
-Growing Rites of Itlimoc
 Perilous Forays
-Dawntreader Elk
 Diligent Farmhand
 Font of Fertility
 Wayfarer's Bauble
-Oshra Cultivator
-Ordeal of Nylea
 
 ### Stuff to sac
 Awakening Zone
 From Beyond
 Mycoloth
-Izoni, Thousand-Eyed
-Creakwood Liege
 Tendershoot Dryad
 Avenger of Zendikar
 Pawn of Ulamog
-Sifter of Skulls
 Reassembling Skeleton
-Grave Titan
 Animation Module
+Ant Queen
+Symbiotic Wurm
+
+### More Tokens
 Parallel Lives
 
 ### Make them Sac
 Vona's Hunger
 Torment of Hailfire
-Fleshbag Marauder
 Plaguecrafter
-Grave Pact
-Tribute to the Wild
 Smallpox
-Barter in Blood
 Wave of Vitriol
 Innocent Blood
-Pir's Whim
 Virtus's Maneuver
-
-### Tutor
-Eldritch Evolution
-Diabolic Intent
-Birthing Pod
 
 ### Recursion
 Dread Return
 Victimize
 Whisper, Blood Liturgist
-Meren of Clan Nel Toth
 Journey to Eternity
-Doomed Necromancer
-Apprentice Necromancer
 
 ### Counters
 Corpsejack Menace
 Hardened Scales
-Reyhan, Last of the Abzan
 Winding Constrictor
 Bloodspore Thrinax
 Death's Presence
 
 ### Sac Outlets
-Culling Dias
+Culling Dais
 Ashnod's Altar
 Viscera Seer
 Jarad, Golgari Lich Lord
 Yahenni, Undying Partisan
 Phyrexian Altar
+Plaguemaw Beast
 
 ### Protection
 Inspiring Call
 
 ### Control
 Tragic Slip
-Bone Splinters
-Living Death
+Caustic Caterpillar
 
 ### Finishers
-Overrun
 Overwhelming Stampede
 Eldrazi Monument
-Altar of Dementia
+Scapeshift
 
 ### Yay For Dying
 Pitiless Plunderer
-Zulaport Cutthroat
 
-### Control
-Caustic Caterpillar
-Shriekmaw
+
 
 ### Lands
-8 Swamp
-8 Forest
+7 Swamp
+6 Forest
 Evolving Wilds
 Terramorphic Expanse
 Overgrown Tomb
 Grim Backwoods
 High Market
 Tainted Wood
-Woodland Cemetary
+Woodland Cemetery
 Westvale Abbey
 Myriad Landscape
 Ghost Quarter
@@ -131,10 +106,40 @@ Rogue's Passage
 Phyrexian Tower
 Khalni Garden
 Reliquary Tower
-Jungle Hallow
+Jungle Hollow
 Llanowar Wastes
 Blighted Fen
 Blighted Woodland
+Haunted Fengraf
+Springjack Pasture
+Warped Landscape
 
-### Upgrades / Maybe
+
+
+
+
+## Upgrades / Maybe
+Creakwood Liege
 Myr Incubator
+Growing Rites of Itlimoc
+Meren of Clan Nel Toth
+Living Death
+Grave Titan
+Overrun
+Apprentice Necromancer
+Sifter of Skulls
+Grave Pact
+Zulaport Cutthroat
+Bone Splinters
+Eldritch Evolution
+Revel in Riches
+Reyhan, Last of the Abzan
+Tribute to the Wild
+Doomed Necromancer
+Wurmcoil Engine
+Shriekmaw
+Altar of Dementia
+
+### Tutor
+Diabolic Intent
+Birthing Pod
