@@ -3,9 +3,12 @@ Etali, Primal Storm
 Mesa Enchantress
 Crystal Ball
 Skullclamp
-Primal Amulet
 Treasure Map
 Mentor of the Meek
+Temple Bell
+Staff of Nin
+Skyline Despot
+Slate of Ancestry
 
 ### Tutor
 Enlightened Tutor
@@ -22,7 +25,6 @@ Solemn Simulacrum
 Darksteel Ingot
 Mind Stone
 Sword of the Animist
-Boros Cluestone
 Wayfarer's Bauble
 
 ### Utility
@@ -33,28 +35,22 @@ Deflecting Palm
 Celestial Ancient
 True Conviction
 Legion's Initiative
+Dictate of the Twin Gods
+Gratuitous Violence
 Cathar's Crusade
-Crusade
 Dictate of Heliod
 Crescendo of War
-Gerrard's Battle Cry
 Glorious Anthem
 Glory of Warfare
 Gleam of Battle
 Honor of the Pure
-Path of Bravery
 Spear of Heliod
 Street Riot
 Nobilis of War
 Victory's Herald
-Signal Pest
 Accorder Paladin
 Goblin Wardriver
 Hero of Oxid Ridge
-Consul's Lieutenant
-Pianna, Nomad Captain
-Instigator Gang
-Akroan Phalanx
 
 ### Recursion
 Sun Titan
@@ -81,17 +77,17 @@ Blessed Spirits
 Archetype of Aggression
 Mirror Entity
 
+### Finishers
+Opalescence
+
 ### Tokens
 Assemble the Legion
 Elspeth, Sun's Champion
 Anointed Procession
-Heliod, God of the Sun
 Legion's Landing
 Luminarch Ascension
 Sigil of the Empty Throne
 Kiki-Jiki, Mirror Breaker
-Splinter Twin
-Spirit Bonds
 Rite of the Raging Storm
 Ajani's Chosen
 Brimaz, King of Oreskos
@@ -101,23 +97,13 @@ Leonin Warleader
 Monastery Mentor
 Rapacious One
 Requiem Angel
-Oketra's Monument
-Helm of the Host
 Mimic Vat
 Divine Visitation
-Skyline Despot
 Secure the Wastes
-White Sun's Zenith
-Call the Cavalry
 Conqueror's Pledge
 Deploy to the Front
 Descent of the Dragons
-Entreat the Angels
-Goblin Offensive
-Heat Shimmer
-Increasing Devotion
 Hour of Reckoning
-Flamerush Rider
 Martial Coup
 Felhide Spiritbinder
 Nomad's Assembly
@@ -202,3 +188,14 @@ Day of Destiny
 Angelic Exaltation
 Intangible Virtue
 Radiant Destiny
+Oketra's Monument
+Entreat the Angels
+Heat Shimmer
+White Sun's Zenith
+Splinter Twin
+Increasing Devotion
+Helm of the Host
+Spirit Bonds
+Heliod, God of the Sun
+Flamerush Rider
+Combustible Gearhulk
