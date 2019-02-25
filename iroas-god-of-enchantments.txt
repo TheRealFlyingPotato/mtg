@@ -45,6 +45,7 @@ Honor of the Pure
 Path of Bravery
 Spear of Heliod
 Street Riot
+Nobilis of War
 
 ### Creatures
 Sun Titan
@@ -57,6 +58,8 @@ Odric, Lunarch Marshal
 Tajic, Blade of the Legion
 Hellrider
 Dualcaster Mage
+Agrus Kos, Wojek Veteran
+Firemane Angel
 
 ### Tokens
 Assemble the Legion
@@ -106,10 +109,12 @@ Return to Dust
 Wrath of God
 Vandalblast
 Chaos Warp
+Crush Contraband
 
 ### Haste
 Lightning Greaves
 In the Web of War
+Fervor
 
 ### Lands
 7 Mountain
