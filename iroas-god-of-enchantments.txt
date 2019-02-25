@@ -1,8 +1,11 @@
 ### Card Advantage
-Etali, Primal Surge
+Etali, Primal Storm
 Mesa Enchantress
 Crystal Ball
 Skullclamp
+Primal Amulet
+Treasure Map
+Mentor of the Meek
 
 ### Tutor
 Enlightened Tutor
@@ -20,6 +23,7 @@ Darksteel Ingot
 Mind Stone
 Sword of the Animist
 Boros Cluestone
+Wayfarer's Bauble
 
 ### Utility
 Boros Charm
@@ -51,10 +55,50 @@ Tajic, Legion's Edge
 Swiftblade Vindicator
 Odric, Lunarch Marshal
 Tajic, Blade of the Legion
+Hellrider
+Dualcaster Mage
 
 ### Tokens
 Assemble the Legion
 Elspeth, Sun's Champion
+Anointed Procession
+Heliod, God of the Sun
+Legion's Landing
+Luminarch Ascension
+Sigil of the Empty Throne
+Kiki-Jiki, Mirror Breaker
+Splinter Twin
+Spirit Bonds
+Rite of the Raging Storm
+Ajani's Chosen
+Brimaz, King of Oreskos
+Hero of Bladehold
+Hanweir Garrison
+Leonin Warleader
+Monastery Mentor
+Rapacious One
+Requiem Angel
+Oketra's Monument
+Helm of the Host
+Mimic Vat
+Divine Visitation
+Skyline Despot
+Secure the Wastes
+White Sun's Zenith
+Call the Cavalry
+Conquerer's Pledge
+Deploy to the Front
+Descent of the Dragons
+Entreat the Angels
+Goblin Offensive
+Heat Shimmer
+Increasing Devotion
+Hour of Reckoning
+Martial 
+Nomad's Assembly
+
+### Evasion
+Legion Loyalist
 
 ### Removal
 Swords to Plowshares
@@ -68,6 +112,31 @@ Lightning Greaves
 In the Web of War
 
 ### Lands
+7 Mountain
+8 Plains
+Sacred Foundry
+Hanweir Battlements
+Arch of Orazca
+Battlefield Forge
+Boros Garrison
+Clifftop Retreat
+Command Tower
+Desert of the True
+Desert of the Fervent
+Drifting Meadow
+Emeria, the Sky Ruin
+Flamekin Village
+Forgotten Cave
+Geier Reach Sanitarium
+High Market
+Inspiring Vantage
+Isolated Watchtower
+Mikokoro, Center of the Sea
+Mirrodin's Core
+Zhalfirin Void
+Wind-Scarred Crag
+Temple of Triumph
+Urza's Factory
 
 ### --------- maybe / upgrades
 Sunforger
