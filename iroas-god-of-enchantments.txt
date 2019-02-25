@@ -1,0 +1,77 @@
+### Card Advantage
+Etali, Primal Surge
+Mesa Enchantress
+Crystal Ball
+Skullclamp
+
+### Tutor
+Enlightened Tutor
+Plea for Guidance
+Retreat to Emeria
+
+### Ramp
+Sol Ring
+Smothering Tithe
+Boros Signet
+Boros Locket
+Commander's Sphere
+Solemn Simulacrum
+Darksteel Ingot
+Mind Stone
+Sword of the Animist
+Boros Cluestone
+
+### Utility
+Boros Charm
+Deflecting Palm
+
+### Anthems
+True Conviction
+Legion's Initiative
+Nobilis of War
+Cathar's Crusade
+Crusade
+Dictate of Heliod
+Crescendo of War
+Gerrard's Battle Cry
+Glorious Anthem
+Glory of Warfare
+Gleam of Battle
+Honor of the Pure
+Path of Bravery
+Spear of Heliod
+Street Riot
+
+### Creatures
+Sun Titan
+Gisela, Blade of Goldnight
+Aurelia, the Warleader
+Truefire Captain
+Tajic, Legion's Edge
+Swiftblade Vindicator
+Odric, Lunarch Marshal
+Tajic, Blade of the Legion
+
+### Tokens
+Assemble the Legion
+Elspeth, Sun's Champion
+
+### Removal
+Swords to Plowshares
+Return to Dust
+Wrath of God
+Vandalblast
+Chaos Warp
+
+### Haste
+Lightning Greaves
+In the Web of War
+
+### Lands
+
+### --------- maybe / upgrades
+Sunforger
+Day of Destiny
+Angelic Exaltation
+Intangible Virtue
+Radiant Destiny
