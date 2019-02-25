@@ -30,9 +30,9 @@ Boros Charm
 Deflecting Palm
 
 ### Anthems
+Celestial Ancient
 True Conviction
 Legion's Initiative
-Nobilis of War
 Cathar's Crusade
 Crusade
 Dictate of Heliod
@@ -46,9 +46,26 @@ Path of Bravery
 Spear of Heliod
 Street Riot
 Nobilis of War
+Victory's Herald
+Signal Pest
+Accorder Paladin
+Goblin Wardriver
+Hero of Oxid Ridge
+Consul's Lieutenant
+Pianna, Nomad Captain
+Instigator Gang
+Akroan Phalanx
+
+### Recursion
+Sun Titan
+Starfield of Nyx
+Silent Sentinel
+
+### Protection
+Rootborn Defenses
 
 ### Creatures
-Sun Titan
+Zealous Conscripts
 Gisela, Blade of Goldnight
 Aurelia, the Warleader
 Truefire Captain
@@ -60,6 +77,9 @@ Hellrider
 Dualcaster Mage
 Agrus Kos, Wojek Veteran
 Firemane Angel
+Blessed Spirits
+Archetype of Aggression
+Mirror Entity
 
 ### Tokens
 Assemble the Legion
@@ -89,7 +109,7 @@ Skyline Despot
 Secure the Wastes
 White Sun's Zenith
 Call the Cavalry
-Conquerer's Pledge
+Conqueror's Pledge
 Deploy to the Front
 Descent of the Dragons
 Entreat the Angels
@@ -97,28 +117,61 @@ Goblin Offensive
 Heat Shimmer
 Increasing Devotion
 Hour of Reckoning
-Martial 
+Flamerush Rider
+Martial Coup
+Felhide Spiritbinder
 Nomad's Assembly
 
 ### Evasion
 Legion Loyalist
 
-### Removal
+### Control
 Swords to Plowshares
 Return to Dust
 Wrath of God
 Vandalblast
 Chaos Warp
 Crush Contraband
+Starstorm
+Arcbond
+Sphere of Safety
+Kor Sanctifiers
+Oblivion Ring
+Duergar Hedge-Mage
+Stasis Snare
+Cast Out
+Authority of the Consuls
+Blind Obedience
+Grasp of Fate
+Lightmine Field
+## Tappers
+Niblis of the Urn
+Master of Diversion
+Sidar Jabari
+Heliod's Emissary
+Gerrard Capashen
+## No Blocks
+Firefist Striker
+Thundersong Trumpeter
+Goblin Heelcutter
+Galepowder Mage
+## Combat
+Master Warcraft
+Odric, Master Tactician
+Boros Battleshaper
 
 ### Haste
 Lightning Greaves
 In the Web of War
 Fervor
+Ogre Battledriver
+Cyclops of Eternal Fury
+Anger
 
 ### Lands
 7 Mountain
-8 Plains
+7 Plains
+Windbrisk Heights
 Sacred Foundry
 Hanweir Battlements
 Arch of Orazca
