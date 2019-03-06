@@ -12,7 +12,6 @@ Slate of Ancestry
 
 ### Tutor
 Enlightened Tutor
-Plea for Guidance
 
 ### Ramp
 Sol Ring
@@ -28,35 +27,24 @@ Wayfarer's Bauble
 
 ### Utility
 Boros Charm
-Rootborn Defenses
 
 ### Anthems
 Celestial Ancient
 True Conviction
 Legion's Initiative
-Dictate of the Twin Gods
-Gratuitous Violence
 Cathar's Crusade
 Dictate of Heliod
 Crescendo of War
 Glorious Anthem
 Glory of Warfare
-Gleam of Battle
 Spear of Heliod
 Street Riot
 Nobilis of War
-
+Gratuitous Violence
 
 ### Recursion
 Starfield of Nyx
 Silent Sentinel
-
-### Creatures
-Gisela, Blade of Goldnight
-Swiftblade Vindicator
-Tajic, Blade of the Legion
-Blessed Spirits
-Archetype of Aggression
 
 ### Finishers
 Opalescence
@@ -70,7 +58,6 @@ Sigil of the Empty Throne
 Ajani's Chosen
 Brimaz, King of Oreskos
 Hero of Bladehold
-Hanweir Garrison
 Leonin Warleader
 Monastery Mentor
 Divine Visitation
@@ -80,7 +67,6 @@ Martial Coup
 ### Wipes
 Hour of Reckoning
 Descent of the Dragons
-Starstorm
 Arcbond
 
 ### STR
@@ -96,14 +82,10 @@ Lightmine Field
 ### Tappers
 Heliod's Emissary
 
-### No Blocks
-Firefist Striker
-
 ### Combat
 Odric, Master Tactician
 
 ### Haste
-Mass Hysteria
 Fervor
 
 ### Lands
@@ -193,12 +175,28 @@ Accorder Paladin
 Retreat to Emeria
 
 In the Web of War
+Tajic, Blade of the Legion
 Rite of the Raging Storm
 Sun Titan
+Dictate of the Twin Gods
+Gleam of Battle
 Master Warcraft
 Victory's Herald
 Gleam of Battle
 Secure the Wastes
+Plea for Guidance
 
 Felhide Spiritbinder
 Kiki-Jiki, Mirror Breaker
+Blessed Spirits
+Swiftblade Vindicator
+Gisela, Blade of Goldnight
+Starstorm
+Rootborn Defenses
+Archetype of Aggression
+Hanweir Garrison
+Mass Hysteria
+
+
+### No Blocks
+Firefist Striker
