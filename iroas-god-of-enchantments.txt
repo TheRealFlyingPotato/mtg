@@ -45,7 +45,7 @@ Gleam of Battle
 Spear of Heliod
 Street Riot
 Nobilis of War
-Victory's Herald
+
 
 ### Recursion
 Starfield of Nyx
@@ -102,7 +102,6 @@ Heliod's Emissary
 Firefist Striker
 
 ### Combat
-Master Warcraft
 Odric, Master Tactician
 
 ### Haste
@@ -198,3 +197,6 @@ Retreat to Emeria
 In the Web of War
 Rite of the Raging Storm
 Sun Titan
+Master Warcraft
+Victory's Herald
+Gleam of Battle
