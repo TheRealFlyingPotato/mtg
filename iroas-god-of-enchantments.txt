@@ -67,7 +67,6 @@ Anointed Procession
 Legion's Landing
 Luminarch Ascension
 Sigil of the Empty Throne
-Kiki-Jiki, Mirror Breaker
 Ajani's Chosen
 Brimaz, King of Oreskos
 Hero of Bladehold
@@ -75,9 +74,8 @@ Hanweir Garrison
 Leonin Warleader
 Monastery Mentor
 Divine Visitation
-Secure the Wastes
 Martial Coup
-Felhide Spiritbinder
+
 
 ### Wipes
 Hour of Reckoning
@@ -200,3 +198,7 @@ Sun Titan
 Master Warcraft
 Victory's Herald
 Gleam of Battle
+Secure the Wastes
+
+Felhide Spiritbinder
+Kiki-Jiki, Mirror Breaker
