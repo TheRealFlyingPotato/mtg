@@ -1,0 +1,114 @@
+### Commander
+Marath, Will of the Wild
+
+### Sac Outlets
+Ashnod's Altar
+
+### Ramp
+New Horizons
+Ordeal of Nylea
+Growing Rites of Itlimoc
+Smothering Tithe
+Cryptolith Rite
+Ranging Raptors
+Birds of Paradise
+Sakura-Tribe Elder
+Wood Elves
+Rampant Growth
+Rishkar, Peema Renegade
+Sol Ring
+Xenagos, the Reveler
+
+### Draw
+Mentor of the Meek
+Evolutionary Leap
+Shamanic Revelation
+Collective Unconscious
+Regal Force
+Slate of Ancestry
+Skullclamp
+Ripjaw Raptor
+Runic Armasaur
+Rishkar's Expertise
+
+### Recursion
+Season's Past
+
+### Tutor
+Tooth and Nail
+Enlightened Tutor
+Chord of Calling
+Green Sun's Zenith
+
+### Protection
+Privileged Position
+Inspiring Call
+Teferi's Protection
+Heroic Intervention
+Lightning Greaves
+Elspeth, Sun's Champion
+
+### Tokens
+Polyraptor
+Assemble the Legion
+Rampaging Baloths
+
+### +1/+1 Counters
+Primal Cocoon
+Death's Presence
+Forced Adaptation
+Evolutionary Escalation
+Cathar's Crusade
+Citadel Siege
+Retreat to Kazandu
+Ivy Lane Denizen
+Bellowing Aegisaur
+Forgotten Ancient
+
+### Tokens & Counters
+Primeval Bounty
+
+### Doublers
+Parallel Lives
+Primal Vigor
+Anointed Procession
+Hardened Scales
+Illusionist's Bracers
+
+### Land Untappers
+Seedborn Muse
+Wilderness Reclamation
+
+### Naya Goodstuff
+Meglonoth
+Naya Charm
+Titanic Ultimatum
+Zacama, Primal Calamity
+
+### ETB
+Impact Tremors
+Path of Discovery
+
+
+### Lands
+Opal Palace
+Command Tower
+Jungle Shrine
+Temple Garden
+Stomping Ground
+Sacred Foundry
+Gavony Township
+Naya Panorama
+Terramorphic Expanse
+Evolving Wilds
+Reliquary Tower
+10 Forest
+8 Plains
+8 Mountain
+
+# ------------- upgrades
+Earthcraft
+Doubling Season
+Mana Echoes
+Mayael's Aria
+
