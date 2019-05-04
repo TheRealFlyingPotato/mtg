@@ -29,7 +29,7 @@ Oracle of Mul Daya
 #Wayward Swordtooth
 Budoka Gardener
 #Frontier Guide
-Llanowar Scout
+#Llanowar Scout
 Sakura-Tribe Scout
 #Walking Atlas
 Arboreal Grazer
@@ -38,11 +38,12 @@ Sakura-Tribe Elder
 Khalni Gem
 Nissa, Vastwood Seer
 Khalni Heart Expedition
-Kodama's Reach
+#Kodama's Reach
 Cultivate
 #Crop Rotation
 Scapeshift
 # Summer Bloom
+
 
 ### Draw
 #Dryad Greenseeker
@@ -93,4 +94,5 @@ Bant Panorama
 Jund Panorama
 Scorched Ruins
 Blighted Woodland
-18 Forest
+Reliquary Tower
+17 Forest
