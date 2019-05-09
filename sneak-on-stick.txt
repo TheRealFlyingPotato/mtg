@@ -20,9 +20,6 @@ Sundial of the Infinite
 Conjurer's Closet
 Quicksilver Amulet
 
-### More Oof
-Gratuitious Violence
-
 ### Draw
 Wheel of Fortune
 Reforge the Soul
@@ -43,7 +40,7 @@ Electropotence
 
 ### Hasty Boi
 Ogre Battledriver
-Bloodsword Steward
+Bloodsworn Steward
 Fervor
 In the Web of War
 Lightning Greaves
@@ -54,7 +51,7 @@ Thundermare
 Bloodmark Mentor
 Stensia Masquerade
 Akroma's Memorial
-Beserkers' Onslaught
+Berserkers' Onslaught
 Whispersilk Cloak
 
 
@@ -76,13 +73,12 @@ Dragon Mage
 Myr Battlesphere
 Rapacious One
 Emrakul's Hatcher
-Breaker of Armies
 Chancellor of the Forge
 Crater Hellion
 Molten Primordial
 Skyscanner
 Book Devourer
-Meteor Golemn
+Meteor Golem
 
 ### Recursion
 Feldon of the Third Path
@@ -93,7 +89,7 @@ Chaos Warp
 ### Lands
 Rogue's Passage
 Nykthos, Shrine to Nyx
-Haneweir Battlements
+Hanweir Battlements
 Shinka, the Bloodsoaked Keep
 Forgotten Cave
 Myriad Landscape
