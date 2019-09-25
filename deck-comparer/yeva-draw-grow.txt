@@ -1,0 +1,89 @@
+1 Ancient Tomb
+1 Arbor Elf
+1 Autumn's Veil
+1 Beast Whisperer
+1 Beast Within
+1 Benefactor's Draught
+1 Birds of Paradise
+1 Boreal Druid
+1 Carpet of Flowers
+1 Caustic Caterpillar
+1 Cavern of Souls
+1 Chord of Calling
+1 Chrome Mox
+1 Crop Rotation
+1 Deserted Temple
+1 Dryad Arbor
+1 Duskwatch Recruiter
+1 Earthcraft
+1 Eldritch Evolution
+1 Elvish Mystic
+1 Elvish Visionary
+1 Emergence Zone
+1 Eternal Witness
+1 Fauna Shaman
+1 Fierce Empath
+1 Finale of Devastation
+1 Fyndhorn Elves
+1 Gaea's Cradle
+1 Geier Reach Sanitarium
+1 Gemstone Caverns
+1 Generous Patron
+1 Genesis Hydra
+1 Great Oak Guardian
+1 Green Sun's Zenith
+1 Growing Rites of Itlimoc
+1 Karametra's Acolyte
+1 Lignify
+1 Llanowar Elves
+1 Mana Crypt
+1 Manglehorn
+1 Marwyn, the Nurturer
+1 Misty Rainforest
+1 Mouth of Ronom
+1 Mox Diamond
+1 Natural Order
+1 Nature's Claim
+1 Noxious Revival
+1 Nykthos, Shrine to Nyx
+1 Paradox Engine
+1 Priest of Titania
+1 Primal Command
+1 Prismatic Vista
+1 Prowling Serpopard
+1 Quirion Ranger
+1 Reclamation Sage
+1 Regal Force
+1 Root Maze
+1 Runic Armasaur
+1 Scavenging Ooze
+1 Seedborn Muse
+1 Selvala, Heart of the Wilds
+1 Shaman of Forgotten Ways
+1 Skullclamp
+14 Snow-Covered Forest
+1 Sol Ring
+1 Somberwald Stag
+1 Song of the Dryads
+1 Staff of Domination
+1 Summoner's Pact
+1 Survival of the Fittest
+1 Sylvan Library
+1 Temur Sabertooth
+1 Thousand-Year Elixir
+1 Umbral Mantle
+1 Utopia Sprawl
+1 Verdant Catacombs
+1 Vivien's Arkbow
+1 Voyaging Satyr
+1 Wild Growth
+1 Windswept Heath
+1 Wirewood Symbiote
+1 Wooded Foothills
+1 Woodland Bellower
+1 Worldly Tutor
+1 Yavimaya Hollow
+1 Yeva, Nature's Herald
+1 Yisan, the Wanderer Bard
+
+

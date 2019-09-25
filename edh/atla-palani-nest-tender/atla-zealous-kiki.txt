@@ -4,7 +4,7 @@
 Defense of the Heart
 Worldly Tutor
 Finale of Devastation
-Tooth and Nail
+#Tooth and Nail
 Weird Harvest
 Oath of Druids
 Eladamri's Call
@@ -25,7 +25,7 @@ Kiki-Jiki, Mirror Breaker
 Mirror Entity
 Zealous Conscripts
 
-### Card Advantage
+### Card Advantage / Cantrips
 Commune with Dinosaurs
 Adventurous Impulse
 Sensei's Divining Top
@@ -94,4 +94,18 @@ Carpet of Flowers
 Land Tax
 
 ### Lands
-32 Forest
+Prismatic Vista
+Flooded Strand
+Windswept Heath
+Wooded Foothills
+Sacred Foundry
+Stomping Ground
+Temple Garden
+City of Brass
+Command Tower
+Exotic Orchard
+Forbidden Orchard
+Mana Confluence
+9 Forest
+5 Mountain
+6 Plains

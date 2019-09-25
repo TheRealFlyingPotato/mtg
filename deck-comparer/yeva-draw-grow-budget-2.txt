@@ -1,0 +1,75 @@
+1 Ambush Commander
+1 Arbor Elf
+1 Autumn's Veil
+1 Band Together
+1 Beast Whisperer
+1 Beast Within
+1 Benefactor's Draught
+1 Birds of Paradise
+1 Blighted Woodland
+1 Boreal Druid
+1 Caustic Caterpillar
+1 Chord of Calling
+1 Cloudstone Curio
+1 Collector Ouphe
+1 Crop Rotation
+1 Duskwatch Recruiter
+1 Eldritch Evolution
+1 Elvish Archdruid
+1 Elvish Guidance
+1 Elvish Harbinger
+1 Elvish Mystic
+1 Elvish Visionary
+1 Emergence Zone
+1 Eternal Witness
+1 Fauna Shaman
+1 Fierce Empath
+1 Finale of Devastation
+28 Forest
+1 Fyndhorn Elves
+1 Geier Reach Sanitarium
+1 Generous Patron
+1 Genesis Hydra
+1 Great Oak Guardian
+1 Green Sun's Zenith
+1 Growing Rites of Itlimoc
+1 Joraga Treespeaker
+1 Karametra's Acolyte
+1 Lignify
+1 Llanowar Elves
+1 Manglehorn
+1 Marwyn, the Nurturer
+1 Nature's Claim
+1 Nykthos, Shrine to Nyx
+1 Priest of Titania
+1 Primal Command
+1 Prowling Serpopard
+1 Quirion Ranger
+1 Reclaim
+1 Reclamation Sage
+1 Regal Force
+1 Runic Armasaur
+1 Scavenging Ooze
+1 Seedborn Muse
+1 Shaman of Forgotten Ways
+1 Skullclamp
+1 Skyshroud Poacher
+1 Sol Ring
+1 Somberwald Stag
+1 Sylvan Offering
+1 Temur Sabertooth
+1 Touch of Vitae
+1 Umbral Mantle
+1 Utopia Sprawl
+1 Vitalize
+1 Vivien's Arkbow
+1 Voyaging Satyr
+1 Wild Growth
+1 Wirewood Channeler
+1 Wirewood Lodge
+1 Wirewood Symbiote
+1 Woodland Bellower
+1 Yeva, Nature's Herald
+1 Yisan, the Wanderer Bard
+
+

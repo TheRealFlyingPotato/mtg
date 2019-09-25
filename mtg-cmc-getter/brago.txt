@@ -1,0 +1,86 @@
+Counterspell
+Cyclonic Rift
+Delay
+Dig Through Time
+Enlightened Tutor
+Fact or Fiction
+Flusterstorm
+Mana Drain
+Mana Leak
+Mental Misstep
+Muddle the Mixture
+Mystic Confluence
+Mystical Tutor
+Negate
+Pact of Negation
+Spell Pierce
+Stroke of Genius
+Swan Song
+Swords to Plowshares
+Whir of Invention
+Act of Authority
+Detention Sphere
+Grasp of Fate
+Mystic Remora
+Oath of Jace
+Parallax Wave
+Rest in Peace
+Rhystic Study
+Spreading Seas
+Stupefying Touch
+Teferi, Temporal Archmage
+Tezzeret the Seeker
+Azorius Signet
+Basalt Monolith
+Chrome Mox
+Cursed Totem
+Fellwar Stone
+Gilded Lotus
+Grim Monolith
+Lightning Greaves
+Mana Crypt
+Mana Vault
+Mind Stone
+Mox Diamond
+Pithing Needle
+Prismatic Lens
+Prophetic Prism
+Relic of Progenitus
+Sensei's Divining Top
+Sol Ring
+Strionic Resonator
+Talisman of Progress
+Thought Vessel
+Aven Mindcensor
+Cloud of Faeries
+Lavinia of the Tenth
+Mentor of the Meek
+Recruiter of the Guard
+Reflector Mage
+Sea Gate Oracle
+Trinket Mage
+Venser, Shaper Savant
+Wall of Omens
+Academy Ruins
+Adarkar Wastes
+Ancient Tomb
+Arid Mesa
+City of Brass
+Command Tower
+Flooded Strand
+Gemstone Caverns
+Glacial Fortress
+Hallowed Fountain
+Inventors' Fair
+Mana Confluence
+Marsh Flats
+Misty Rainforest
+Polluted Delta
+Scalding Tarn
+Tarnished Citadel
+Tundra
+Windswept Heath
+Fabricate
+Ponder
+Preordain
+Reshape

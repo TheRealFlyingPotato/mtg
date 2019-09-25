@@ -6,7 +6,102 @@ Sword of the Chosen
 Tenza, Godo's Maul
 Hero's Blade
 Blackblade Reforged
-Heroes' Podium
 Day of Destiny
+Citadel Siege
+Hammer of Nazahn
+Stormrider Rig
+Veteran's Armaments
 
-### Shrine Package
+### Ramp
+Chromatic Lantern
+Rampant Growth
+Farseek
+Wayfarer's Bauble
+Birds of Paradise
+Kodama's Reach
+Cultivate
+Thran Temporal Gateway
+Smothering Tithe
+Coalition Relic
+Gilded Lotus
+
+### Draw
+Jhoira, Weatherlight Captain
+Tezzeret's Gambit
+Echo of Eons
+Emergency Powers
+Rhystic Study
+Mystic Remora
+Game Plan
+
+### Golden
+Doubling Season
+Bioessence Hydra
+
+### Walker Support
+The Chain Veil
+Oath of Teferi
+Oath of Nissa
+Rings of Brighthearth
+
+### More Counters
+Atraxa, Praetors' Voice
+Oath of Gideon
+Deepglow Skate
+Evolution Sage
+Ajani, the Greathearted
+Planewide Celebration
+Grow from the Ashes
+Sword of Truth and Justice
+Flux Channeler
+Thrummingbird
+Contagion Clasp
+Contagion Engine
+Inexorable Tide
+Pollenbright Druid
+
+### Tutor
+Arena Rector
+#Ignite the Beacon
+Liliana Vess
+
+### Protection
+Teferi's Protection
+Baird, Steward of Argive
+
+### Walkers: Card Value
+Teferi, Temporal Archmage
+Narset Transcendent
+Ob Nixilis Reignited
+Sorin, Grim Nemesis
+Nissa, Steward of Elements
+Lord Windgrace
+
+### Walkers: Blink package
+Aminatou, the Fateshifter
+
+### Walkers: Game winners
+Sarkhan the Masterless
+
+### Walkers: Misc
+Nissa, Vital Force
+Elspeth, Sun's Champion
+
+### Interaction
+Urza's Ruinous Blast
+Nevinyrral's Disk
+Merciless Eviction
+Supreme Verdict
+#Time Wipe
+Blasphemous Act
+Ashiok, Dream Render
+Fuel for the Cause
+
+### Recursion
+Primeval's Glorious Rebirth
+
+### Land
+Karn's Bastion
+Interplanar Beacon
+35 Island
+

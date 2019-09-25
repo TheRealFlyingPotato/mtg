@@ -5,26 +5,27 @@ Ghave, Guru of Spores
 Ashnod's Altar
 Viscera Seer
 Carrion Feeder
+Krav, the Unredeemed
 
 ### Ramp
 #New Horizons
-Ordeal of Nylea
+#Ordeal of Nylea
 Growing Rites of Itlimoc
 Smothering Tithe
 Cryptolith Rite
 Song of Freyalise
+Ranging Raptors
 Birds of Paradise
 Sakura-Tribe Elder
-#Wood Elves
-#Rampant Growth
+Wood Elves
+Rampant Growth
 Rishkar, Peema Renegade
 Sol Ring
 Crystalline Crawler
-Wilderness Reclamation
-#Seedborn Muse
+Mirari's Wake
+Oracle of Mul Daya
 Fertilid
-Perilous Forays
-
+Seedborn Muse
 
 ### Draw
 Mentor of the Meek
@@ -37,34 +38,34 @@ Skullclamp
 #Rishkar's Expertise
 Psychotrope Thallid
 Smothering Abomination
-Regal Force
-Huatli, Radiant Champion
+Deathreap Ritual
 
 ### Recursion
-Season's Past
+Mending of Dominaria
+#Season's Past
 #Whisper, Blood Liturgist
 Eternal Witness
 
 ### Tutor
-#Chord of Calling
+Chord of Calling
 Enlightened Tutor
 Green Sun's Zenith
 Finale of Devastation
 Diabolic Intent
-#eladamri's call
+#Eladamri's Call
 
 ### Protection
 #Privileged Position
 Inspiring Call
-#Teferi's Protection
-#Heroic Intervention
-#Lightning Greaves
+Teferi's Protection
+Heroic Intervention
+Lightning Greaves
 Shalai, Voice of Plenty
 
 ### Life drain/gain
 #Deathgreeter
-#Blood Artist
-#Zulaport Cutthroat
+Blood Artist
+Zulaport Cutthroat
 Cruel Celebrant
 Slimefoot, the Stowaway
 Poison-tip Archer
@@ -72,7 +73,7 @@ Poison-tip Archer
 ### +1/+1 Counters
 Death's Presence
 Citadel Siege
-#Retreat to Kazandu
+Retreat to Kazandu
 Ivy Lane Denizen
 Forgotten Ancient
 Cathar's Crusade
@@ -80,12 +81,13 @@ Sigil Captain
 Mazirek, Kraul Death Priest
 Juniper Order Ranger
 Champion of Lambholt
-#Reyhan, Last of the Abzan
+Reyhan, Last of the Abzan
 Bloodspore Thrinax
 Path of Discovery
 Loyal Guardian
-#Unspeakable Symbol
-#Feast on the Fallen
+
+### Interaction
+Assassin's Trophy
 
 ### Doublers
 Parallel Lives
@@ -94,18 +96,12 @@ Hardened Scales
 Illusionist's Bracers
 Corpsejack Menace
 Winding Constrictor
-#Divine Visitation
+Divine Visitation
 
 ### Tokens
 Mycoloth
 Tendershoot Dryad
 Requiem Angel
-March of the Multitudes
-
-### Interaction
-Anguished Unmaking
-Utter End
-Despark
 
 ### Misc
 Abzan Falconer
@@ -115,22 +111,17 @@ Gavony Township
 Reliquary Tower
 Opal Palace
 Karn's Bastion
-Polluted Delta
+Phyrexian Tower
 Godless Shrine
-Overgrown Tomb
 Temple Garden
+Overgrown Tomb
+Command Tower
+Polluted Delta
 Isolated Chapel
 Sunpetal Grove
 Woodland Cemetery
-Command Tower
-Sandsteppe Citadel
-City of Brass
-Terramorphic Expanse
-8 Forest
-7 Plains
-7 Swamp
-
+24 Forest
 
 # ------- upgrades / maybe
-#Earthcraft
-#Doubling Season
+Earthcraft
+Doubling Season

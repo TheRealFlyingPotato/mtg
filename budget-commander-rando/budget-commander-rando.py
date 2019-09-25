@@ -1,0 +1,1 @@
+"https://api.scryfall.com/cards/search?q=usd<%3D10+t%3Alegend+t%3Acreature+f%3Ac&unique=cards&as=grid&order=name"
