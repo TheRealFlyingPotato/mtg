@@ -14,8 +14,6 @@ Courser of Kruphix
 Twilight Prophet
 Fountain of Renewal
 Reviving Vapors
-Ivory Tower
-Skirge Familiar
 Ill-Gotten Inheritance
 Agent of Masks
 Clearwater Goblet
@@ -26,12 +24,10 @@ Feed the Clan
 Lightning Helix
 Sanguine Sacrament
 Weather the Storm
-Dromar's Charm
 Sphinx's Revelation
 Heartwarming Redemption
 Ad Nauseam
 Words of Worship
-Lifegift
 Retreat to Kazandu
 Roots of Life
 Convalescent Care
@@ -65,7 +61,7 @@ Rampant Growth
 Kodama's Reach
 Cultivate
 Skirge Familiar
-Orazca Relic
+#Orazca Relic
 Chromatic Lantern
 Pristine Talisman
 Selvala, Explorer Returned
@@ -74,14 +70,14 @@ Selvala, Explorer Returned
 Sidisi, Undead Vizier
 Demonic Tutor
 Enlightened Tutor
-Worldly Tutor
+#Worldly Tutor
 Buried Alive
 Plea for Guidance
 
 ### Misc
 Penance
 Time Spiral
-Second Chance
+#Second Chance
 
 ### Boom
 Death's Shadow
@@ -96,14 +92,14 @@ Heroic Intervention
 Privileged Position
 Dovin's Veto
 Teferi's Protection 
-Faith's Shield
-Dispel
+#Faith's Shield
+#Dispel
 Cryptic Command
-Turn Aside
+#Turn Aside
 Hindering Light
 Absorb
 Dromar's Charm
-Fall of the Gavel
+#Fall of the Gavel
 Forbid
 
 ### Protection: For Me (Invulnerability)
@@ -112,8 +108,7 @@ Solitary Confinement
 
 ### Only Break in Case of Emergencies
 Stunning Reversal
-Exquisite Archangel
-Phyrexian Unlife
+#Phyrexian Unlife
 Platinum Angel
 Exquisite Archangel
 Transcendence
@@ -122,7 +117,7 @@ Elixir of Immortality
 ### Recursion
 Hanna, Ship's Navigator
 Eternal Witness
-Noxious Revival
+#Noxious Revival
 
 ### Interaction
 Wrath of God
