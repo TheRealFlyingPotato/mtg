@@ -13,6 +13,7 @@ Kambal, Consul of Allocation
 Courser of Kruphix
 Twilight Prophet
 Fountain of Renewal
+Reviving Vapors
 Ivory Tower
 Skirge Familiar
 Ill-Gotten Inheritance
@@ -35,6 +36,24 @@ Retreat to Kazandu
 Roots of Life
 Convalescent Care
 Zuran Orb
+Ivory Tower
+Rhystic Study
+Augury Adept
+Sunscorch Regent
+Armadillo Cloak
+Authority of the Consuls
+Clackbridge Troll
+Jaddi Offshoot
+Lifegift
+Paradise Plume
+Soul Warden
+Soul's Attendant
+The Great Henge
+Braidwood Cup
+Chalice of Life
+Oracle of Nectars
+Skullmead Cauldron
+Tainted Sigil
 
 ### Ramp
 Smothering Tithe
@@ -42,9 +61,14 @@ Gift of Paradise
 Sol Ring
 Gilded Lotus
 Sakura-Tribe Elder
-Rampatn Growth
+Rampant Growth
 Kodama's Reach
 Cultivate
+Skirge Familiar
+Orazca Relic
+Chromatic Lantern
+Pristine Talisman
+Selvala, Explorer Returned
 
 ### Tutors
 Sidisi, Undead Vizier
@@ -52,28 +76,62 @@ Demonic Tutor
 Enlightened Tutor
 Worldly Tutor
 Buried Alive
+Plea for Guidance
+
+### Misc
+Penance
+Time Spiral
+Second Chance
 
 ### Boom
 Death's Shadow
 Debt to the Deathless
 Omniscience
+Kagemaro, First to Suffer
 
-
-### Protection
+### Protection: For the Pieces
 Sterling Grove
 Greater Auramancy
 Heroic Intervention
 Privileged Position
-Teferi's Protection
+Dovin's Veto
+Teferi's Protection 
 Faith's Shield
-Delaying Shield
 Dispel
+Cryptic Command
+Turn Aside
+Hindering Light
+Absorb
+Dromar's Charm
+Fall of the Gavel
+Forbid
 
-### Survive Longer
+### Protection: For Me (Invulnerability)
+Delaying Shield
+Solitary Confinement
+
+### Only Break in Case of Emergencies
+Stunning Reversal
+Exquisite Archangel
 Phyrexian Unlife
 Platinum Angel
 Exquisite Archangel
 Transcendence
+Elixir of Immortality
 
-### Budget Considerations
+### Recursion
+Hanna, Ship's Navigator
+Eternal Witness
+Noxious Revival
+
+### Interaction
+Wrath of God
+
+### Budget Considerations / Maybes
 Fountain Watch
+Sanctimony
+Powerleech
+Sun Titan
+
+### Lands
+37 Forest
