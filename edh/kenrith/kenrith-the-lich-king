@@ -4,16 +4,24 @@ Kenrith, the Returned King
 ### Seriously though
 Lich
 
-### Draw
+### Draw: Normal
 Land Tax
+Courser of Kruphix
+Twilight Prophet
+Reviving Vapors
+Sphinx's Revelation
+Heartwarming Redemption
+Ad Nauseam
+Rhystic Study
+Augury Adept
+Clackbridge Troll
+
+### Draw: Life Based
 Illusions of Grandeur
 Gray Merchant of Asphodel
 Children of Korlis
 Kambal, Consul of Allocation
-Courser of Kruphix
-Twilight Prophet
 Fountain of Renewal
-Reviving Vapors
 Ill-Gotten Inheritance
 Agent of Masks
 Clearwater Goblet
@@ -23,31 +31,23 @@ Celestial Force
 Feed the Clan
 Lightning Helix
 Sanguine Sacrament
-Weather the Storm
-Sphinx's Revelation
-Heartwarming Redemption
-Ad Nauseam
+#Weather the Storm
 Words of Worship
 Retreat to Kazandu
-Roots of Life
 Convalescent Care
 Zuran Orb
 Ivory Tower
-Rhystic Study
-Augury Adept
 Sunscorch Regent
 Armadillo Cloak
 Authority of the Consuls
-Clackbridge Troll
 Jaddi Offshoot
 Lifegift
 Paradise Plume
-Soul Warden
-Soul's Attendant
+#Soul Warden
+#Soul's Attendant
 The Great Henge
 Braidwood Cup
 Chalice of Life
-Oracle of Nectars
 Skullmead Cauldron
 Tainted Sigil
 
@@ -65,6 +65,7 @@ Skirge Familiar
 Chromatic Lantern
 Pristine Talisman
 Selvala, Explorer Returned
+Dockside Extortionist
 
 ### Tutors
 Sidisi, Undead Vizier
@@ -75,12 +76,14 @@ Buried Alive
 Plea for Guidance
 
 ### Misc
+Wilderness Reclamation
 Penance
 Time Spiral
 #Second Chance
+Training Grounds
 
 ### Boom
-Death's Shadow
+#Death's Shadow
 Debt to the Deathless
 Omniscience
 Kagemaro, First to Suffer
@@ -127,6 +130,11 @@ Fountain Watch
 Sanctimony
 Powerleech
 Sun Titan
+Roots of Life
+#Soul Warden
+#Soul's Attendant
+#Kambal, Consul of Allocation
+
 
 ### Lands
 37 Forest
