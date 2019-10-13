@@ -7,11 +7,12 @@ Lich
 ### Draw: Normal
 Land Tax
 Courser of Kruphix
+Tatyova, Benthic Druid
 Twilight Prophet
 Reviving Vapors
 Sphinx's Revelation
 Heartwarming Redemption
-Ad Nauseam
+#Ad Nauseam
 Rhystic Study
 Augury Adept
 Clackbridge Troll
@@ -20,9 +21,8 @@ Clackbridge Troll
 Illusions of Grandeur
 Gray Merchant of Asphodel
 Children of Korlis
-Kambal, Consul of Allocation
 Fountain of Renewal
-Ill-Gotten Inheritance
+#Ill-Gotten Inheritance
 Agent of Masks
 Clearwater Goblet
 Gerrard Capashen
@@ -30,7 +30,7 @@ Palace Siege
 Celestial Force
 Feed the Clan
 Lightning Helix
-Sanguine Sacrament
+#Sanguine Sacrament
 #Weather the Storm
 Words of Worship
 Retreat to Kazandu
@@ -40,15 +40,13 @@ Ivory Tower
 Sunscorch Regent
 Armadillo Cloak
 Authority of the Consuls
-Jaddi Offshoot
+#Jaddi Offshoot
 Lifegift
-Paradise Plume
 #Soul Warden
 #Soul's Attendant
-The Great Henge
-Braidwood Cup
-Chalice of Life
-Skullmead Cauldron
+#Braidwood Cup
+#Chalice of Life
+#Skullmead Cauldron
 Tainted Sigil
 
 ### Ramp
@@ -58,7 +56,7 @@ Sol Ring
 Gilded Lotus
 Sakura-Tribe Elder
 Rampant Growth
-Kodama's Reach
+#Kodama's Reach
 Cultivate
 Skirge Familiar
 #Orazca Relic
@@ -66,6 +64,8 @@ Chromatic Lantern
 Pristine Talisman
 Selvala, Explorer Returned
 Dockside Extortionist
+Paradise Plume
+The Great Henge
 
 ### Tutors
 Sidisi, Undead Vizier
@@ -74,6 +74,8 @@ Enlightened Tutor
 #Worldly Tutor
 Buried Alive
 Plea for Guidance
+Dark Petition
+Demonic Collusion
 
 ### Misc
 Wilderness Reclamation
@@ -125,6 +127,10 @@ Eternal Witness
 ### Interaction
 Wrath of God
 
+### Lands
+37 Forest
+
+
 ### Budget Considerations / Maybes
 Fountain Watch
 Sanctimony
@@ -135,6 +141,3 @@ Roots of Life
 #Soul's Attendant
 #Kambal, Consul of Allocation
 
-
-### Lands
-37 Forest
