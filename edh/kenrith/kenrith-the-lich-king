@@ -7,19 +7,19 @@ Lich
 ### Draw: Normal
 Land Tax
 Courser of Kruphix
-Tatyova, Benthic Druid
+#Tatyova, Benthic Druid
 Twilight Prophet
 Reviving Vapors
 #Sphinx's Revelation
 Heartwarming Redemption
 #Ad Nauseam
-Rhystic Study
-Augury Adept
+#Rhystic Study
+#Augury Adept
 #Clackbridge Troll
 Phyrexian Arena
 
 ### Draw: Life Based
-Illusions of Grandeur
+#Illusions of Grandeur
 #Gray Merchant of Asphodel
 #Children of Korlis
 #Fountain of Renewal
@@ -27,15 +27,14 @@ Illusions of Grandeur
 #Agent of Masks
 Clearwater Goblet
 Gerrard Capashen
-Palace Siege
-Celestial Force
-Feed the Clan
-Lightning Helix
+#Palace Siege
+#Celestial Force
+#Feed the Clan
 #Sanguine Sacrament
 #Weather the Storm
-Words of Worship
+#Words of Worship
 Retreat to Kazandu
-Convalescent Care
+#Convalescent Care
 Zuran Orb
 Ivory Tower
 Sunscorch Regent
@@ -48,17 +47,17 @@ Lifegift
 #Braidwood Cup
 #Chalice of Life
 #Skullmead Cauldron
-Tainted Sigil
+#Tainted Sigil
 
 ### Ramp
 Smothering Tithe
 Gift of Paradise
 #Sol Ring
-Gilded Lotus
+#Gilded Lotus
 Sakura-Tribe Elder
 Rampant Growth
 #Kodama's Reach
-Cultivate
+#Cultivate
 Skirge Familiar
 #Orazca Relic
 Chromatic Lantern
@@ -69,7 +68,7 @@ Dockside Extortionist
 #The Great Henge
 Hour of Promise
 Oracle of Mul Daya
-Coalition Relic
+#Coalition Relic
 Arcane Signet
 
 ### Tutors
@@ -77,15 +76,17 @@ Sidisi, Undead Vizier
 Demonic Tutor
 Enlightened Tutor
 #Worldly Tutor
-Buried Alive
+#Buried Alive
 Plea for Guidance
 Dark Petition
-Demonic Collusion
+#Demonic Collusion
+Zur, the Enchanter
 
 ### Misc
 Wilderness Reclamation
 Penance
-Time Spiral
+#Time Spiral
+Midnight Clock
 #Second Chance
 Training Grounds
 Vedalken Orrery
@@ -93,29 +94,32 @@ Leyline of Anticipation
 
 ### Boom
 #Death's Shadow
-Debt to the Deathless
+#Debt to the Deathless
+Repay in Kind
 Omniscience
-Kagemaro, First to Suffer
+#Kagemaro, First to Suffer
 
 ### Protection: For the Pieces
 Sterling Grove
 Estrid, the Masked
 Indestructibility
-Greater Auramancy
+#Greater Auramancy
 Heroic Intervention
 Privileged Position
 Dovin's Veto
-Teferi's Protection 
+#Teferi's Protection 
 #Faith's Shield
 #Dispel
-Cryptic Command
+#Cryptic Command
 #Turn Aside
-Hindering Light
+#Hindering Light
 Absorb
-Dromar's Charm
+#Dromar's Charm
 #Fall of the Gavel
 Forbid
-Avacyn, Angel of Hope
+#Avacyn, Angel of Hope
+Fountain Watch
+Curator's Ward
 
 ### Protection: For Me (Invulnerability)
 Delaying Shield
@@ -126,7 +130,7 @@ Energy Field
 Stunning Reversal
 #Phyrexian Unlife
 Platinum Angel
-Exquisite Archangel
+#Exquisite Archangel
 Transcendence
 Elixir of Immortality
 
@@ -139,18 +143,17 @@ Eternal Witness
 Wrath of God
 Cyclonic Rift
 Anguished Unmaking
+Lightning Helix
 
 ### Lands
-37 Forest
+36 Forest
 
 
 ### Budget Considerations / Maybes
-Fountain Watch
-Sanctimony
-Powerleech
-Sun Titan
-Roots of Life
+#Sanctimony
+#Powerleech
+#Sun Titan
+#Roots of Life
 #Soul Warden
 #Soul's Attendant
 #Kambal, Consul of Allocation
-
