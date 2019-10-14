@@ -1,86 +1,73 @@
-Counterspell	1.56	2.67
-Cyclonic Rift	19.77	34.84
-Delay	6.24	25.06
-Dig Through Time	1.67	4.30
+Arbor Elf	0.33	1.46
+Avacyn's Pilgrim	0.17	0.35
+Aven Mindcensor	0.73	2.03
+Birchlore Rangers	0.50	9.63
+Birds of Paradise	7.00	14.23
+Bloom Tender	50.32	154.63
+Boreal Druid	3.44	25.87
+Collector Ouphe	3.68	24.07
+Containment Priest	2.68	16.85
+Drift of Phantasms	1.07	10.43
+Elvish Mystic	0.24	None
+Eternal Witness	4.46	6.71
+Fyndhorn Elves	None	None
+Glowrider	0.91	12.49
+Great Oak Guardian	0.18	None
+Gyre Sage	1.32	4.09
+Heritage Druid	5.69	14.85
+Hushwing Gryff	0.34	None
+Kataki, War's Wage	2.31	14.92
+Lavinia, Azorius Renegade	0.48	2.42
+Linvala, Keeper of Silence	18.95	39.77
+Llanowar Elves	0.75	None
+Manglehorn	0.25	1.03
+Noble Hierarch	35.69	43.90
+Phyrexian Revoker	1.65	8.91
+Priest of Titania	5.19	None
+Quirion Ranger	2.77	None
+Reclamation Sage	0.32	None
+Spellseeker	10.88	45.26
+Thalia, Guardian of Thraben	10.68	18.59
+Village Bell-Ringer	0.10	None
+Vryn Wingmare	0.33	1.56
+Wirewood Symbiote	0.67	2.11
+Cyclonic Rift	19.86	34.84
+Eladamri's Call	1.57	5.92
 Enlightened Tutor	30.73	54.31
-Fact or Fiction	0.16	None
-Flusterstorm	6.27	None
-Mana Drain	78.06	122.46
-Mana Leak	0.24	0.59
-Mental Misstep	1.80	30.42
-Muddle the Mixture	3.82	15.76
-Mystic Confluence	3.66	9.66
-Mystical Tutor	9.18	19.14
-Negate	0.12	0.35
-Pact of Negation	15.73	25.83
-Spell Pierce	0.20	4.66
-Stroke of Genius	2.11	None
-Swan Song	5.04	None
-Swords to Plowshares	1.63	3.20
-Whir of Invention	4.55	15.15
-Act of Authority	2.44	None
-Detention Sphere	1.39	10.47
-Grasp of Fate	13.38	None
+Flusterstorm	6.20	None
+Krosan Grip	3.08	None
+Mana Drain	79.79	122.46
+Natural State	0.13	1.91
+Nature's Claim	0.41	1.11
+Noxious Revival	4.77	24.47
+Pact of Negation	15.79	25.83
+Summoner's Pact	11.38	19.30
+Swords to Plowshares	1.62	3.20
+Worldly Tutor	17.40	None
+Back to Basics	7.73	31.97
+Carpet of Flowers	20.07	None
+Energy Flux	None	None
+Intruder Alarm	17.49	81.50
 Mystic Remora	None	None
-Oath of Jace	0.30	2.01
-Parallax Wave	None	None
-Rest in Peace	4.70	26.38
-Rhystic Study	18.38	75.49
-Spreading Seas	0.83	19.18
-Stupefying Touch	0.08	0.19
-Teferi, Temporal Archmage	21.33	None
-Tezzeret the Seeker	19.46	19.61
-Azorius Signet	1.69	None
-Basalt Monolith	3.46	None
-Chrome Mox	38.22	54.37
-Cursed Totem	7.48	None
-Fellwar Stone	3.08	None
-Gilded Lotus	2.92	6.16
-Grim Monolith	153.96	999.99
-Lightning Greaves	6.03	None
-Mana Crypt	193.40	227.95
-Mana Vault	36.57	78.30
-Mind Stone	1.16	None
-Mox Diamond	None	None
-Pithing Needle	2.78	7.10
-Prismatic Lens	0.27	0.80
-Prophetic Prism	0.13	0.44
-Relic of Progenitus	3.68	7.17
-Sensei's Divining Top	32.91	46.25
-Sol Ring	3.20	None
-Strionic Resonator	1.14	None
-Talisman of Progress	None	None
-Thought Vessel	9.69	None
-Aven Mindcensor	0.71	2.03
-Cloud of Faeries	None	None
-Lavinia of the Tenth	0.32	0.74
-Mentor of the Meek	0.49	0.99
-Recruiter of the Guard	26.21	90.57
-Reflector Mage	1.10	8.97
-Sea Gate Oracle	0.17	None
-Trinket Mage	0.25	None
-Venser, Shaper Savant	6.95	8.24
-Wall of Omens	2.61	3.79
-Academy Ruins	35.99	51.63
-Adarkar Wastes	9.74	35.50
-Ancient Tomb	21.93	31.93
-Arid Mesa	44.39	52.47
-City of Brass	11.73	47.13
-Command Tower	1.45	None
-Flooded Strand	20.59	43.41
-Gemstone Caverns	36.78	129.24
-Glacial Fortress	3.30	7.33
-Hallowed Fountain	7.77	20.73
-Inventors' Fair	2.84	13.44
-Mana Confluence	13.45	28.25
-Marsh Flats	43.37	52.11
-Misty Rainforest	60.79	103.22
-Polluted Delta	23.32	53.06
-Scalding Tarn	91.55	139.30
-Tarnished Citadel	12.61	61.95
-Tundra	None	None
-Windswept Heath	13.39	34.24
-Fabricate	6.06	None
-Ponder	2.14	None
-Preordain	4.94	None
-Reshape	8.54	24.83
+Rhystic Study	18.75	75.49
+Stony Silence	6.27	14.61
+Sylvan Library	36.68	69.33
+Cloudstone Curio	24.99	41.12
+Mana Crypt	194.22	227.95
+Null Rod	None	None
+Sol Ring	3.27	None
+Dryad Arbor	16.12	71.86
+Flooded Strand	20.57	43.41
+Misty Rainforest	60.89	103.22
+Prismatic Vista	29.95	90.96
+Scrying Sheets	24.93	64.95
+Forest	None	None
+Island	None	None
+Plains	None	None
+Windswept Heath	13.49	34.24
+Farseek	0.42	None
+Finale of Devastation	12.13	23.93
+Gitaxian Probe	1.08	7.78
+Green Sun's Zenith	8.39	16.44
+Into the North	0.90	14.88
+Rampant Growth	0.39	None
