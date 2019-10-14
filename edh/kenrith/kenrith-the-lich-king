@@ -10,20 +10,21 @@ Courser of Kruphix
 Tatyova, Benthic Druid
 Twilight Prophet
 Reviving Vapors
-Sphinx's Revelation
+#Sphinx's Revelation
 Heartwarming Redemption
 #Ad Nauseam
 Rhystic Study
 Augury Adept
-Clackbridge Troll
+#Clackbridge Troll
+Phyrexian Arena
 
 ### Draw: Life Based
 Illusions of Grandeur
-Gray Merchant of Asphodel
-Children of Korlis
-Fountain of Renewal
+#Gray Merchant of Asphodel
+#Children of Korlis
+#Fountain of Renewal
 #Ill-Gotten Inheritance
-Agent of Masks
+#Agent of Masks
 Clearwater Goblet
 Gerrard Capashen
 Palace Siege
@@ -52,7 +53,7 @@ Tainted Sigil
 ### Ramp
 Smothering Tithe
 Gift of Paradise
-Sol Ring
+#Sol Ring
 Gilded Lotus
 Sakura-Tribe Elder
 Rampant Growth
@@ -61,11 +62,15 @@ Cultivate
 Skirge Familiar
 #Orazca Relic
 Chromatic Lantern
-Pristine Talisman
-Selvala, Explorer Returned
+#Pristine Talisman
+#Selvala, Explorer Returned
 Dockside Extortionist
-Paradise Plume
-The Great Henge
+#Paradise Plume
+#The Great Henge
+Hour of Promise
+Oracle of Mul Daya
+Coalition Relic
+Arcane Signet
 
 ### Tutors
 Sidisi, Undead Vizier
@@ -83,6 +88,8 @@ Penance
 Time Spiral
 #Second Chance
 Training Grounds
+Vedalken Orrery
+Leyline of Anticipation
 
 ### Boom
 #Death's Shadow
@@ -92,6 +99,8 @@ Kagemaro, First to Suffer
 
 ### Protection: For the Pieces
 Sterling Grove
+Estrid, the Masked
+Indestructibility
 Greater Auramancy
 Heroic Intervention
 Privileged Position
@@ -106,10 +115,12 @@ Absorb
 Dromar's Charm
 #Fall of the Gavel
 Forbid
+Avacyn, Angel of Hope
 
 ### Protection: For Me (Invulnerability)
 Delaying Shield
 Solitary Confinement
+Energy Field
 
 ### Only Break in Case of Emergencies
 Stunning Reversal
@@ -126,6 +137,8 @@ Eternal Witness
 
 ### Interaction
 Wrath of God
+Cyclonic Rift
+Anguished Unmaking
 
 ### Lands
 37 Forest
