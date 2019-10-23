@@ -7,10 +7,10 @@ Arcane Signet
 Gilded Lotus
 Thran Dynamo
 Worn Powerstone
-Empowered Autogenerator
+#Empowered Autogenerator
 Everflowing Chalice
 Hedron Archive
-Dreamstone Hedron
+#Dreamstone Hedron
 Darksteel Ingot
 Talisman of Conviction
 Talisman of Creativity
@@ -18,7 +18,7 @@ Talisman of Progress
 
 
 ### Good stuff
-Epic Experiment
+#Epic Experiment
 Electrodominance
 Aetherflux reservoir
 Alhammarret's Archive
@@ -26,23 +26,23 @@ God-Eternal Kefnet
 Firesong and Sunspeaker
 Boros Charm
 Stuffy Doll
-Radiate
-Fractured Identity
+#Radiate
+#Fractured Identity
 Taigam, Ojutai Master
-Storm Herd
+#Storm Herd
 Deflecting Palm
 
 ### Interaction
 Jeskai Charm
-Odds // Ends
+# Odds // Ends
 Mindswipe
-Star of Extinction
+#Star of Extinction
 Blasphemous Act
 Earthquake
 Chain Reaction
 Time Wipe
-Baral's Expertise
-Supplant Form
+#Baral's Expertise
+#Supplant Form
 
 ### Recursion
 Volcanic Vision
@@ -55,7 +55,7 @@ Lightning Greaves
 Darksteel Plate
 
 ### Speedy
-Vedalken Orrery
+#Vedalken Orrery
 Leyline of Anticipation
 
 ### Draw
@@ -64,7 +64,7 @@ Time Spiral
 Rhystic Study
 Expansion // Explosion
 Finale of Revelation
-The Magic Mirror
+#The Magic Mirror
 Risk Factor
 Niv-Mizzet, Parun
 Preordain
@@ -81,8 +81,8 @@ Goblin Electromancer
 Baral, Chief of Compliance
 Primal Amulet
 As Foretold
-Curious Homunculus
-Mizzix of the Izmagnus
+#Curious Homunculus
+#Mizzix of the Izmagnus
 Seal of the Guildpact
 
 ### Other Reducers
@@ -92,26 +92,116 @@ Heartstone
 ### To the face
 Acidic Soil
 Banefire
-Flame Rift
+#Flame Rift
 Fiery Confluence
 Volcanic Fallout
 Khorvath's Fury
 Mana Clash
 
 ### Copiers
-Ral, Storm Conduit
-Thousand-Year Storm
+#Ral, Storm Conduit
+#Thousand-Year Storm
 Dual Casting
-Swarm Intelligence
+#Swarm Intelligence
 
 ### Doublers
 Dictate of the Twin Gods
 #Fiendish Duo
 Furnace of Rath
-Gisela, Blade of Goldnight
+#Gisela, Blade of Goldnight
 Quest for Pure Flame
 
 ### Lands
 Boseiju, who shelters all
-35 Mountain
+12 Mountain
+8 Islands
+6 Plain
 Reliquary Tower
+Mirror Pool
+Flooded Strand
+Polluted Delta
+Wooded Foothills
+Windswept Heath
+Hallowed Fountain
+Steam Vents
+Sacred Foundry
+
+
+
+1x Acidic Soil
+1x Aetherflux Reservoir
+1x Alhammarret's Archive
+1x Arcane Melee
+1x Arcane Signet
+1x As Foretold
+1x Banefire
+1x Baral, Chief of Compliance
+1x Blasphemous Act
+1x Boros Charm
+1x Boseiju, Who Shelters All
+1x Chain Reaction
+1x Darksteel Ingot
+1x Darksteel Plate
+1x Deflecting Palm
+1x Dictate of the Twin Gods
+1x Dual Casting
+1x Earthquake
+1x Echo of Eons
+1x Electrodominance
+1x Elsha of the Infinite
+1x Enlightened Tutor
+1x Everflowing Chalice
+1x Expansion / Explosion
+1x Fiery Confluence
+1x Finale of Revelation
+1x Firesong and Sunspeaker
+1x Flooded Strand
+1x Furnace of Rath
+1x Gilded Lotus
+1x Goblin Electromancer
+1x God-Eternal Kefnet
+1x Hallowed Fountain
+1x Heartstone
+1x Hedron Archive
+8x Island
+1x Jace's Sanctum
+1x Jeskai Charm
+1x Khorvath's Fury
+1x Leyline of Anticipation
+1x Lightning Greaves
+1x Mana Clash
+1x Mindswipe
+1x Mirrorpool
+12x Mountain
+1x Niv-Mizzet, Parun
+1x Past in Flames
+6x Plains
+1x Polluted Delta
+1x Preordain
+1x Primal Amulet
+1x Quest for Pure Flame
+1x Reliquary Tower
+1x Rhystic Study
+1x Risk Factor
+1x Sacred Foundry
+1x Seal of the Guildpact
+1x Smothering Tithe
+1x Sol Ring
+1x Steam Vents
+1x Stuffy Doll
+1x Taigam, Ojutai Master
+1x Talisman of Conviction
+1x Talisman of Creativity
+1x Talisman of Progress
+1x Teferi's Protection
+1x The Mirari Conjecture
+1x Thran Dynamo
+1x Time Spiral
+1x Time Wipe
+1x Training Grounds
+1x Volcanic Fallout
+1x Volcanic Vision
+1x Wheel of Fortune
+1x Windswept Heath
+1x Wooded Foothills
+1x Worn Powerstone
