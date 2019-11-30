@@ -1,183 +1,72 @@
-Kenrith, the Returned King `Commander`
-Ink-Treader Nephilim `The Three Amigos`
-Zada, Hedron Grinder `The Three Amigos`
-Mirrorwing Dragon `The Three Amigos`
-Aggressive Urge `Draw`
-Fists of Flame `Draw`
-Rile `Draw`
-Depose `Draw`
-Crimson Wisps `Draw`
-Cerulean Wisps `Draw`
-Expedite `Draw`
-Shelter `Draw`
-Slip into Space `Draw`
-Renegade Tactics `Draw`
-Confront the Unknown `Draw`
-Niveous Wisps `Draw`
-Shadow Rift `Draw`
-Spritualize `Draw`
-Viridescent Wisps `Draw`
-Bandage `Draw`
-Verdant Confluence `Ramp-Special`
-Swell of Growth `Ramp-Special`
-Enter the Unknown `Ramp`
-Cryptolith Rite `Ramp`
-Faeburrow Elder `Ramp`
-Arcane Signet `Ramp`
+Mistform Ultimus `Commander`
+Guardian Idol `Ramp`
+Prismatic Lens `Ramp`
+Fractured Powerstone `Ramp`
+Star Compass `Ramp`
+Dowsing Dagger `Ramp`
 Sol Ring `Ramp`
-Mana Crypt `Ramp`
-Chromatic Lantern `Ramp`
-Farseek `Ramp`
-Thought Vessel `Ramp`
-Commander's Sphere `Ramp`
-Birds of Pradise `Ramp`
-Awakening Zone `Ramp`
-Rampant Growth `Ramp`
-Primal Growth `Ramp`
-Repulse `Interaction`
-Depths of Desire `Interaction`
-Banish into Fable `Interaction`
-Into the Roil `Interaction`
-Expel from Orazca `Interaction`
-Blink of an Eye `Interaction`
-Wipe Away `Interaction`
-Temporal Spring `Interaction`
-Generous Gift `Interaction`
-Beast Within `Interaction`
-Deny Reality `Interaction`
-Cryptic Command `Interaction`
-Sudden Substitution `Interaction`
-Bake into a Pie `Interaction`
-Lightning Helix `Interaction`
-Spin Into Myth `Interaction`
-Oust `Interaction`
-Excommunicate `Interaction`
-Deathsprout `Interaction`
-Unsummon `Interaction`
-Snap `Interaction`
-Dramatic Rescue `Interaction`
-Dovin's Veto `Counterspells`
-Counterspell `Counterspells`
-Demonic Tutor `Tutors`
-Bring to Light `Tutors`
-Worldly Tutor `Tutors`
-Chord of Calling `Tutors`
-Finale of Devastation `Tutors`
-Buried Alive `Tutors`
-Eladamri's Call `Tutors`
-Reweave `Polymorph`
-Chaos Warp `Polymorph`
-Fiery Gambit `Ouch`
-Psychosis Crawler `Ouch`
-Wild Defiance `Ouch`
-Ral, Storm Conduit `Ouch`
-Dragonshift `Ouch`
-Dance of the Skywise `Ouch`
-Blood Lust `Ouch`
-Stony Strength `Ouch`
-Stealth Mission `Ouch`
-Sigil Blessing `Ouch`
-Jeskai Charm `Charms`
-Darigaaz's Charm `Charms`
-Naya Charm `Charms`
-Boros Charm `Charms`
-Mardu Charm `Charms`
-Simic Charm `Charms`
-Mystic Confluence `Charms`
-Nivmagus Elemental `Synergy`
-Glaring Spotlight `Synergy`
-Isochron Scepter `Synergy`
-Feather, the Redeemed `Synergy`
-Kari Zev's Expertise `I'll take this`
-Word of Seizing `I'll take this`
-Catch // Release `I'll take this`
-Slave of Bolas `I'll take this`
-Press Into Service `I'll take this`
-Mass Manipulation `I'll take this`
-Dominate `I'll take this`
-Mark of Mutiny `I'll take this`
-Debt of Loyalty `I'll take this`
-Besmirch `I'll take this`
-Act of Treason `I'll take this`
-Kari Zev's Expertise `I'll take this`
-Traitorous Instinct `I'll take this`
-Willbreaker `I'll take this`
-The Locust God `Tokens`
-Silverfur Partisan `Tokens`
-Ayula's Influence `Tokens`
-Spawning Breath `Tokens`
-Make Mischief `Tokens`
-Renegade's Getaway `Tokens`
-Fungal Infection `Tokens`
-Aether Mutation `Tokens`
-Adverse Conditions `Tokens`
-Xenagos, the Reveler `Token-gen`
-From Beyond `Token-gen`
-Young Pyromancer `Token-gen`
-Dovescape `Token-gen`
-Dragonlair Spider `Token-gen`
-Dragon Broodmother `Token-gen`
-Tendershoot Dryad `Token-gen`
-Goblinslide `Token-gen`
-Kykar, Wind's Fury `Token-gen`
-Metallurgic Summonings `Token-gen`
-Monastery Mentor `Token-gen`
-Murmuring Mystic `Token-gen`
-Noosegraf Mob `Token-gen`
-Saheeli, Sublime Artificer `Token-gen`
-Talrand, Sky Summoner `Token-gen`
-Doubling Season `More Tokens`
-Parallel Lives `More Tokens`
-Anointed Procession `More Tokens`
-Fated Infatuation `Token Copies`
-Saheeli's Artistry `Token Copies`
-Supplant Form `Token Copies`
-Spitting Image `Token Copies`
-Rite of Replication `Token Copies`
-Repudiate // Replicate `Token Copies`
-Quasiduplicate `Token Copies`
-Heat Shimmer `Token Copies`
-Cackling Counterpart `Token Copies`
-Gods Willing `Protection`
-Pyroblast `Protection`
-Woodcutter's Grit `Protection`
-Dive Down `Protection`
-Adamant Will `Protection`
-Liberate `Protection`
-Blossoming Defense `Protection`
+Heraldic Banner `Ramp`
+Mana Geode `Ramp`
+Midnight Clock `Ramp`
+Orazca Relic `Ramp`
+Seer's Lantern `Ramp`
+Mind Stone `Ramp`
+Dreamscape Artist `Ramp`
+Bident of Thassa `Draw`
+Call to the Kindred `Draw`
+Sea Gate Loremaster `Draw`
+Scour All Possibilities `Draw`
+Witching Well `Draw`
+Mistform Warchief `Reducers`
+Stonybrook Banneret `Reducers`
+Lord of the Unreal `Protection`
+Diffusion Sliver `Protection`
+Kopala, Warden of Waves `Protection`
+Cloak and Dagger `Protection`
 Swiftfoot Boots `Protection`
-Lightning Greaves `Protection`
-Eternal Witness `Recursion`
-Dreadhorde Arcanist `Recursion`
-Reliquary Tower `Lands`
-Arcane Lighthouse `Lands`
-Cascade Bluffs `Lands`
-City of Brass `Lands`
-Mana Confluence `Lands`
-Forbidden Orchard `Lands`
-Sacred Foundry `Lands`
-Steam Vents `Lands`
-Stomping Ground `Lands`
-Hallowed Fountain `Lands`
-Breeding Pool `Lands`
-Temple Garden `Lands`
-Command Tower `Lands`
-Blood Crypt `Lands`
-Godless Shrine `Lands`
-Overgrown Tomb `Lands`
-Sacred Foundry `Lands`
-Watery Grave `Lands`
-Scrubland `Lands`
-Underground Sea `Lands`
-Flooded Strand `Lands`
-Polluted Delta `Lands`
-Windswept Heath `Lands`
-Wooded Foothills `Lands`
-3 Island `Lands`
-2 Swamp `Lands`
-2 Mountain `Lands`
-2 Plains `Lands`
-3 Forest `Lands`
-Seize the Day `Maybeboard`
-Past in Flames `Maybeboard`
-Entomb `Maybeboard`
+Whispersilk Cloak `Protection`
+Arcane Adaptation `Goodies`
+Clone `Goodies`
+Mirror Image `Goodies`
+Karn's Temporal Sundering `Goodies`
+Synchronous Sliver `Lords`
+Stoneforge Masterwork `Lords`
+Myr Galvanizer `Lords`
+Merfolk Sovereign `Lords`
+Winged Sliver `Lords`
+Unseh, Criosphinx Sovereign `Lords`
+Obsidian Battle-Axe `Lords`
+Shadow Sliver `Lords`
+Hall of Triumph `Lords`
+Final Iteration `Lords`
+Docent of Perfection // Final Iteration `Lords`
+Strata Scythe `Lords`
+Master of the Pearl Trident `Lords`
+Shifting Sliver `Lords`
+Corrupted Conscience `Infect`
+Grafted Exoskeleton `Infect`
+Blink of an Eye `Interaction`
+Dismiss `Interaction`
+Into the Roil `Interaction`
+Galecaster Colossus `Interaction`
+Whelming Wave `Interaction`
+Rabid Hybridization `Interaction`
+Reality Shift `Interaction`
+Slinn Boda, the Rising Deep `Interaction`
+Archmage's Charm `Interaction`
+Sage's Dousing `Interaction`
+Dissipate `Interaction`
+Confound `Interaction`
+Mana Spell Syphon `Interaction`
+Tale's End `Interaction`
+Spell Rupture `Interaction`
+Amoeboid Changeling `Changelings`
+Turtleshell Chageling `Changelings`
+Azami, Lady of Scrolls `Draw`
+Future Sight `Draw`
+Foresee `Draw`
+Recurring Insight `Draw`
+Fact or Fiction `Draw`
+Opportunity `Draw`
+Rogue's Passage `Lands`
+36 Island `Lands`
